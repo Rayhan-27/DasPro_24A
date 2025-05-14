@@ -1,0 +1,1001 @@
+,Customer ID,Usia,Gender,ID Pembelian,Jenis Produk,Transaksi,Waktu Pembelian,Jenis Pengiriman,Metode Pembayaran,Feedback
+0,ID0908,20,Wanita,SPXID20248,Home,"Rp 912.000,-",30-01-2023,Hemat,Cash,***
+1,ID0265,59,Pria,SPXID47452,Fashion,"Rp 177.000,-",28-02-2023,Next Day,COD,****
+2,ID0462,31,Wanita,SPXID25075,Food,"Rp 337.000,-",29-01-2023,Hemat,COD,*
+3,ID0343,40,Pria,SPXID37636,Home,"Rp 126.000,-",18-09-2023,Reguler,COD,**
+4,ID0733,26,Pria,SPXID25861,Fashion,"Rp 456.000,-",23-02-2025,Reguler,Cash,****
+5,ID0799,37,Wanita,SPXID35787,Home,"Rp 565.000,-",09-05-2023,Hemat,Transfer,*****
+6,ID0903,41,Wanita,SPXID28403,Sport,"Rp 432.000,-",04-08-2025,Next Day,Transfer,**
+7,ID0839,20,Pria,SPXID24710,Electronics,"Rp 157.000,-",27-04-2024,Next Day,COD,*
+8,ID0805,38,Pria,SPXID14786,Electronics,"Rp 622.000,-",02-06-2024,Reguler,COD,**
+9,ID0525,22,Wanita,SPXID13015,Fashion,"Rp 368.000,-",14-01-2024,Reguler,Cash,*****
+10,ID0874,44,Wanita,SPXID31873,Fashion,"Rp 232.000,-",26-01-2024,Reguler,Transfer,**
+11,ID0642,22,Pria,SPXID06348,Sport,"Rp 206.000,-",27-06-2025,Hemat,Cash,***
+12,ID0052,50,Wanita,SPXID01595,Electronics,"Rp 381.000,-",01-03-2023,Reguler,Transfer,***
+13,ID0136,41,Wanita,SPXID04284,Sport,"Rp 347.000,-",11-03-2025,Next Day,Transfer,**
+14,ID0663,41,Pria,SPXID02462,Electronics,"Rp 240.000,-",13-09-2023,Next Day,Cash,**
+15,ID0497,54,Pria,SPXID19872,Sport,"Rp 492.000,-",25-03-2025,Express,COD,****
+16,ID0498,38,Pria,SPXID43550,Sport,"Rp 973.000,-",09-06-2025,Express,Cash,***
+17,ID0830,19,Pria,SPXID36820,Electronics,"Rp 543.000,-",01-07-2025,Next Day,Ngutang,*****
+18,ID0555,35,Wanita,SPXID48751,Fashion,"Rp 23.000,-",10-07-2023,Hemat,Ngutang,****
+19,ID0112,47,Pria,SPXID21971,Fashion,"Rp 864.000,-",24-09-2024,Express,COD,**
+20,ID0216,33,Pria,SPXID26350,Fashion,"Rp 531.000,-",25-11-2025,Express,Transfer,**
+21,ID0356,40,Pria,SPXID16246,Electronics,"Rp 95.000,-",29-06-2023,Hemat,Cash,****
+22,ID0502,22,Wanita,SPXID32712,Sport,"Rp 258.000,-",23-04-2024,Express,Transfer,****
+23,ID0801,25,Wanita,SPXID26260,Electronics,"Rp 731.000,-",02-11-2023,Next Day,Ngutang,*
+24,ID0772,39,Wanita,SPXID22638,Food,"Rp 283.000,-",25-03-2023,Hemat,Cash,****
+25,ID0120,25,Pria,SPXID14265,Home,"Rp 966.000,-",09-10-2025,Hemat,COD,***
+26,ID0730,59,Pria,SPXID24754,Sport,"Rp 100.000,-",05-10-2025,Reguler,Transfer,****
+27,ID0214,51,Wanita,SPXID47051,Fashion,"Rp 558.000,-",05-08-2024,Reguler,Ngutang,*
+28,ID0601,53,Wanita,SPXID19235,Sport,"Rp 62.000,-",24-08-2023,Hemat,Transfer,*
+29,ID0434,58,Wanita,SPXID07705,Home,"Rp 77.000,-",10-02-2023,Hemat,Cash,**
+30,ID0266,27,Pria,SPXID32451,Electronics,"Rp 853.000,-",26-07-2025,Hemat,Transfer,*
+31,ID0238,18,Pria,SPXID10099,Fashion,"Rp 968.000,-",18-03-2024,Next Day,Cash,*****
+32,ID0610,53,Wanita,SPXID49644,Electronics,"Rp 157.000,-",17-07-2025,Next Day,Transfer,**
+33,ID0101,50,Pria,SPXID29348,Electronics,"Rp 173.000,-",07-03-2025,Hemat,COD,*
+34,ID0728,42,Wanita,SPXID28343,Fashion,"Rp 46.000,-",06-10-2024,Hemat,COD,*
+35,ID0842,29,Wanita,SPXID17933,Home,"Rp 91.000,-",16-10-2023,Hemat,Ngutang,*
+36,ID0967,50,Pria,SPXID44058,Sport,"Rp 507.000,-",10-09-2024,Hemat,Transfer,*
+37,ID0386,22,Pria,SPXID14635,Home,"Rp 770.000,-",26-07-2024,Hemat,Transfer,***
+38,ID0186,47,Pria,SPXID02656,Sport,"Rp 46.000,-",27-08-2024,Next Day,Transfer,****
+39,ID0874,36,Wanita,SPXID30653,Food,"Rp 75.000,-",03-01-2025,Next Day,Transfer,**
+40,ID0131,49,Pria,SPXID38627,Food,"Rp 780.000,-",14-09-2025,Reguler,Transfer,***
+41,ID0016,25,Pria,SPXID37811,Fashion,"Rp 249.000,-",15-07-2024,Reguler,Ngutang,**
+42,ID0192,32,Wanita,SPXID06600,Electronics,"Rp 765.000,-",02-07-2025,Hemat,COD,***
+43,ID0514,53,Wanita,SPXID41302,Home,"Rp 859.000,-",15-04-2025,Express,Transfer,***
+44,ID0111,47,Wanita,SPXID40134,Sport,"Rp 443.000,-",15-05-2025,Next Day,Cash,*****
+45,ID0564,34,Pria,SPXID01961,Sport,"Rp 109.000,-",23-01-2025,Express,Cash,*****
+46,ID0832,22,Wanita,SPXID32099,Home,"Rp 157.000,-",26-07-2025,Reguler,Ngutang,*****
+47,ID0401,42,Wanita,SPXID15028,Electronics,"Rp 839.000,-",17-10-2024,Express,Transfer,***
+48,ID0780,52,Wanita,SPXID29600,Fashion,"Rp 143.000,-",03-09-2024,Reguler,COD,*
+49,ID0094,38,Wanita,SPXID43373,Electronics,"Rp 318.000,-",12-04-2023,Reguler,Cash,*****
+50,ID0203,35,Pria,SPXID13632,Electronics,"Rp 609.000,-",01-05-2024,Next Day,COD,*
+51,ID0091,54,Wanita,SPXID28996,Home,"Rp 945.000,-",28-01-2023,Express,Ngutang,****
+52,ID0031,28,Wanita,SPXID15955,Food,"Rp 275.000,-",10-06-2023,Next Day,COD,****
+53,ID0679,60,Wanita,SPXID00316,Electronics,"Rp 416.000,-",14-06-2025,Next Day,Transfer,**
+54,ID0368,51,Wanita,SPXID31620,Electronics,"Rp 660.000,-",18-07-2024,Next Day,COD,*****
+55,ID0991,26,Wanita,SPXID01148,Food,"Rp 741.000,-",18-05-2024,Express,Cash,**
+56,ID0323,25,Pria,SPXID24022,Electronics,"Rp 581.000,-",13-02-2023,Express,Ngutang,****
+57,ID0944,55,Pria,SPXID38719,Electronics,"Rp 230.000,-",08-11-2025,Next Day,COD,*****
+58,ID0775,32,Wanita,SPXID26671,Home,"Rp 373.000,-",25-02-2025,Hemat,COD,****
+59,ID0005,39,Pria,SPXID39401,Electronics,"Rp 456.000,-",02-03-2023,Express,Ngutang,****
+60,ID0285,24,Wanita,SPXID28090,Electronics,"Rp 630.000,-",02-10-2025,Reguler,COD,*****
+61,ID0634,20,Pria,SPXID38921,Food,"Rp 433.000,-",23-04-2024,Hemat,Cash,*
+62,ID0284,40,Wanita,SPXID31054,Food,"Rp 405.000,-",25-01-2023,Express,Transfer,****
+63,ID0530,51,Wanita,SPXID49967,Home,"Rp 789.000,-",16-10-2023,Express,Transfer,***
+64,ID0402,42,Wanita,SPXID31012,Electronics,"Rp 541.000,-",20-11-2024,Next Day,Transfer,**
+65,ID0661,45,Pria,SPXID28701,Electronics,"Rp 560.000,-",30-11-2025,Hemat,Ngutang,*
+66,ID0896,47,Pria,SPXID15495,Sport,"Rp 227.000,-",03-10-2025,Express,Cash,**
+67,ID0781,23,Pria,SPXID37061,Food,"Rp 79.000,-",04-01-2023,Next Day,Transfer,****
+68,ID0290,55,Pria,SPXID12343,Fashion,"Rp 519.000,-",27-11-2023,Express,Transfer,*
+69,ID0643,57,Pria,SPXID49766,Food,"Rp 465.000,-",14-08-2024,Express,Cash,***
+70,ID0535,57,Pria,SPXID37036,Electronics,"Rp 859.000,-",10-11-2024,Express,COD,*****
+71,ID0575,50,Wanita,SPXID23812,Fashion,"Rp 210.000,-",04-03-2023,Reguler,Ngutang,*
+72,ID0800,24,Pria,SPXID01449,Fashion,"Rp 43.000,-",17-09-2024,Express,Ngutang,***
+73,ID0965,24,Pria,SPXID38545,Food,"Rp 416.000,-",27-04-2024,Reguler,Transfer,*
+74,ID0425,40,Wanita,SPXID11281,Sport,"Rp 725.000,-",12-08-2024,Reguler,COD,*
+75,ID0819,40,Pria,SPXID39645,Home,"Rp 535.000,-",25-11-2025,Express,COD,*****
+76,ID0453,49,Wanita,SPXID02921,Electronics,"Rp 87.000,-",05-09-2023,Express,COD,****
+77,ID0422,39,Wanita,SPXID42866,Food,"Rp 470.000,-",23-04-2024,Express,Ngutang,*
+78,ID0551,25,Pria,SPXID37822,Sport,"Rp 194.000,-",16-10-2025,Next Day,Ngutang,****
+79,ID0847,32,Pria,SPXID11513,Fashion,"Rp 833.000,-",05-11-2024,Hemat,COD,*****
+80,ID0317,28,Wanita,SPXID47559,Home,"Rp 690.000,-",21-03-2024,Next Day,Transfer,*****
+81,ID0966,39,Wanita,SPXID24855,Food,"Rp 279.000,-",27-04-2024,Hemat,COD,**
+82,ID0778,36,Pria,SPXID06210,Home,"Rp 930.000,-",06-01-2025,Express,COD,*****
+83,ID0906,35,Wanita,SPXID31428,Electronics,"Rp 587.000,-",06-04-2024,Reguler,COD,*
+84,ID0764,18,Wanita,SPXID19485,Food,"Rp 718.000,-",11-07-2024,Express,COD,**
+85,ID0286,47,Pria,SPXID10321,Fashion,"Rp 322.000,-",27-08-2025,Hemat,Transfer,*****
+86,ID0541,36,Wanita,SPXID09426,Electronics,"Rp 496.000,-",25-09-2025,Reguler,COD,*****
+87,ID0437,22,Wanita,SPXID14324,Home,"Rp 522.000,-",23-10-2023,Next Day,Ngutang,*
+88,ID0296,19,Pria,SPXID26103,Food,"Rp 917.000,-",04-09-2023,Next Day,COD,**
+89,ID0476,18,Wanita,SPXID38584,Electronics,"Rp 161.000,-",09-09-2024,Hemat,Ngutang,***
+90,ID0437,35,Wanita,SPXID23431,Food,"Rp 643.000,-",30-05-2025,Express,Ngutang,***
+91,ID0231,30,Pria,SPXID36715,Electronics,"Rp 335.000,-",10-01-2025,Hemat,Transfer,*
+92,ID0247,35,Wanita,SPXID13194,Home,"Rp 729.000,-",25-09-2025,Reguler,COD,***
+93,ID0947,18,Pria,SPXID01822,Food,"Rp 836.000,-",27-05-2023,Hemat,Transfer,**
+94,ID0760,47,Pria,SPXID15874,Food,"Rp 293.000,-",11-02-2025,Next Day,COD,***
+95,ID0818,55,Pria,SPXID26434,Electronics,"Rp 486.000,-",21-02-2025,Hemat,Ngutang,*
+96,ID0833,25,Pria,SPXID05096,Home,"Rp 249.000,-",15-09-2024,Reguler,Cash,*
+97,ID0157,23,Pria,SPXID47115,Sport,"Rp 863.000,-",04-01-2024,Reguler,Cash,*
+98,ID0787,19,Pria,SPXID15549,Sport,"Rp 774.000,-",30-09-2024,Next Day,Cash,*****
+99,ID0806,49,Pria,SPXID46926,Electronics,"Rp 195.000,-",17-02-2025,Next Day,Cash,*
+100,ID0390,56,Pria,SPXID42074,Home,"Rp 370.000,-",28-09-2023,Next Day,Transfer,****
+101,ID0487,60,Wanita,SPXID35033,Sport,"Rp 457.000,-",28-08-2025,Hemat,COD,*
+102,ID0960,50,Wanita,SPXID25944,Electronics,"Rp 773.000,-",14-02-2023,Reguler,Cash,*****
+103,ID0083,33,Wanita,SPXID18222,Sport,"Rp 210.000,-",20-01-2025,Next Day,Ngutang,**
+104,ID0324,19,Wanita,SPXID22192,Home,"Rp 567.000,-",24-08-2023,Hemat,Cash,*
+105,ID0552,50,Pria,SPXID20943,Food,"Rp 863.000,-",23-04-2025,Reguler,COD,*****
+106,ID0744,59,Wanita,SPXID06029,Food,"Rp 213.000,-",03-05-2025,Reguler,Ngutang,****
+107,ID0001,49,Wanita,SPXID37313,Home,"Rp 602.000,-",23-07-2025,Express,Cash,**
+108,ID0247,47,Pria,SPXID48998,Food,"Rp 63.000,-",24-08-2023,Next Day,Cash,****
+109,ID0093,32,Pria,SPXID26621,Food,"Rp 343.000,-",03-03-2024,Express,COD,*
+110,ID0015,32,Pria,SPXID06383,Sport,"Rp 592.000,-",13-01-2025,Next Day,Transfer,**
+111,ID0952,53,Pria,SPXID12805,Electronics,"Rp 596.000,-",06-05-2023,Express,Ngutang,***
+112,ID0773,23,Pria,SPXID36163,Fashion,"Rp 68.000,-",09-11-2024,Express,Ngutang,**
+113,ID0682,48,Wanita,SPXID06658,Fashion,"Rp 516.000,-",16-01-2023,Hemat,Transfer,****
+114,ID0168,39,Pria,SPXID27797,Food,"Rp 960.000,-",01-04-2024,Next Day,Cash,****
+115,ID0129,22,Wanita,SPXID46148,Electronics,"Rp 748.000,-",07-07-2025,Hemat,Cash,*****
+116,ID0805,37,Pria,SPXID18189,Fashion,"Rp 943.000,-",18-05-2023,Hemat,Cash,*****
+117,ID0422,19,Wanita,SPXID43416,Fashion,"Rp 651.000,-",08-03-2023,Next Day,Ngutang,***
+118,ID0396,26,Wanita,SPXID13211,Home,"Rp 640.000,-",23-03-2024,Next Day,Ngutang,****
+119,ID0644,47,Pria,SPXID20212,Electronics,"Rp 106.000,-",19-05-2024,Express,COD,***
+120,ID0960,29,Wanita,SPXID47953,Fashion,"Rp 334.000,-",08-06-2024,Reguler,Transfer,***
+121,ID0841,18,Wanita,SPXID13252,Food,"Rp 429.000,-",24-09-2025,Hemat,Transfer,***
+122,ID0380,59,Wanita,SPXID35630,Sport,"Rp 904.000,-",03-04-2023,Reguler,Cash,***
+123,ID0791,60,Pria,SPXID49569,Food,"Rp 560.000,-",20-06-2025,Next Day,Cash,*
+124,ID0536,21,Wanita,SPXID47685,Home,"Rp 434.000,-",06-05-2023,Next Day,Cash,***
+125,ID0624,50,Wanita,SPXID28362,Sport,"Rp 302.000,-",06-01-2024,Express,COD,****
+126,ID0711,35,Wanita,SPXID23476,Home,"Rp 243.000,-",26-04-2023,Next Day,Transfer,*****
+127,ID0161,43,Wanita,SPXID33393,Sport,"Rp 963.000,-",11-11-2025,Next Day,Transfer,****
+128,ID0549,54,Pria,SPXID09283,Food,"Rp 156.000,-",24-10-2023,Express,COD,**
+129,ID0206,50,Pria,SPXID21881,Electronics,"Rp 912.000,-",08-01-2025,Next Day,Cash,***
+130,ID0015,26,Pria,SPXID37639,Electronics,"Rp 686.000,-",28-10-2025,Hemat,Ngutang,****
+131,ID0079,40,Wanita,SPXID39745,Electronics,"Rp 368.000,-",03-07-2023,Next Day,Cash,****
+132,ID0530,27,Wanita,SPXID05472,Electronics,"Rp 755.000,-",03-11-2024,Reguler,Transfer,*****
+133,ID0503,21,Pria,SPXID41383,Electronics,"Rp 157.000,-",19-02-2025,Express,Cash,**
+134,ID0368,23,Wanita,SPXID36717,Sport,"Rp 862.000,-",01-11-2023,Express,COD,*
+135,ID0689,52,Wanita,SPXID33174,Electronics,"Rp 720.000,-",03-06-2024,Next Day,Cash,**
+136,ID0617,27,Wanita,SPXID07010,Fashion,"Rp 206.000,-",15-05-2025,Hemat,Ngutang,**
+137,ID0182,29,Pria,SPXID29429,Home,"Rp 797.000,-",06-07-2024,Reguler,COD,***
+138,ID0711,47,Pria,SPXID01951,Fashion,"Rp 663.000,-",28-10-2024,Reguler,Ngutang,***
+139,ID0545,42,Wanita,SPXID15554,Home,"Rp 290.000,-",07-10-2024,Reguler,COD,**
+140,ID0617,39,Pria,SPXID39213,Fashion,"Rp 224.000,-",01-06-2025,Express,COD,*****
+141,ID0286,39,Pria,SPXID03836,Sport,"Rp 974.000,-",18-06-2025,Reguler,Transfer,*****
+142,ID0345,23,Wanita,SPXID35580,Electronics,"Rp 168.000,-",25-04-2023,Hemat,Transfer,****
+143,ID0977,54,Wanita,SPXID27692,Food,"Rp 495.000,-",26-10-2023,Hemat,Ngutang,*****
+144,ID0273,31,Wanita,SPXID19249,Food,"Rp 802.000,-",21-10-2025,Hemat,COD,***
+145,ID0806,27,Wanita,SPXID41455,Electronics,"Rp 172.000,-",21-08-2024,Express,Transfer,*
+146,ID0381,51,Pria,SPXID31651,Electronics,"Rp 955.000,-",22-05-2023,Reguler,Cash,*
+147,ID0380,43,Wanita,SPXID07300,Food,"Rp 787.000,-",26-09-2024,Reguler,Transfer,**
+148,ID0220,45,Wanita,SPXID28808,Home,"Rp 265.000,-",04-01-2023,Next Day,Transfer,**
+149,ID0856,55,Pria,SPXID24891,Sport,"Rp 560.000,-",08-11-2023,Next Day,Transfer,****
+150,ID0247,27,Wanita,SPXID18632,Electronics,"Rp 412.000,-",12-09-2024,Express,COD,*****
+151,ID0432,22,Pria,SPXID23028,Electronics,"Rp 308.000,-",10-02-2025,Hemat,Ngutang,**
+152,ID0240,39,Pria,SPXID41296,Fashion,"Rp 557.000,-",08-07-2023,Next Day,Cash,**
+153,ID0887,22,Pria,SPXID01413,Food,"Rp 469.000,-",17-10-2025,Reguler,Cash,***
+154,ID0669,26,Wanita,SPXID25301,Sport,"Rp 721.000,-",28-11-2023,Next Day,Cash,*****
+155,ID0093,59,Pria,SPXID45965,Sport,"Rp 760.000,-",04-10-2024,Next Day,Transfer,***
+156,ID0297,45,Wanita,SPXID47681,Food,"Rp 744.000,-",11-08-2023,Hemat,COD,**
+157,ID0380,23,Pria,SPXID23211,Sport,"Rp 491.000,-",05-04-2023,Next Day,Ngutang,**
+158,ID0786,23,Pria,SPXID21970,Sport,"Rp 945.000,-",20-06-2025,Next Day,Transfer,*****
+159,ID0515,33,Wanita,SPXID11275,Fashion,"Rp 73.000,-",12-04-2023,Express,Cash,****
+160,ID0979,56,Pria,SPXID39332,Fashion,"Rp 528.000,-",23-03-2024,Express,COD,*
+161,ID0539,46,Wanita,SPXID31761,Home,"Rp 295.000,-",16-10-2025,Reguler,COD,**
+162,ID0099,48,Pria,SPXID00260,Food,"Rp 707.000,-",22-03-2025,Reguler,Transfer,***
+163,ID0326,46,Wanita,SPXID03949,Food,"Rp 358.000,-",15-03-2023,Hemat,Transfer,*
+164,ID0257,48,Wanita,SPXID13655,Electronics,"Rp 699.000,-",27-09-2023,Next Day,COD,**
+165,ID0606,43,Pria,SPXID22122,Sport,"Rp 201.000,-",11-01-2023,Reguler,Ngutang,*
+166,ID0734,51,Wanita,SPXID36492,Sport,"Rp 879.000,-",20-07-2024,Express,Ngutang,**
+167,ID0367,35,Wanita,SPXID06028,Sport,"Rp 883.000,-",30-06-2025,Next Day,Transfer,***
+168,ID0016,40,Pria,SPXID11281,Food,"Rp 556.000,-",28-11-2023,Hemat,COD,***
+169,ID0251,55,Wanita,SPXID36772,Home,"Rp 871.000,-",08-03-2025,Next Day,Cash,***
+170,ID0768,24,Pria,SPXID02902,Home,"Rp 911.000,-",13-03-2024,Hemat,Cash,***
+171,ID0456,22,Wanita,SPXID09732,Home,"Rp 269.000,-",07-11-2024,Next Day,Transfer,****
+172,ID0082,45,Pria,SPXID34354,Fashion,"Rp 234.000,-",02-09-2023,Express,Transfer,**
+173,ID0427,45,Pria,SPXID42613,Food,"Rp 302.000,-",20-04-2024,Reguler,Cash,*****
+174,ID0459,30,Wanita,SPXID36115,Sport,"Rp 343.000,-",26-11-2024,Reguler,Transfer,****
+175,ID0976,55,Pria,SPXID34454,Food,"Rp 920.000,-",04-01-2023,Next Day,COD,**
+176,ID0860,37,Pria,SPXID04705,Fashion,"Rp 53.000,-",11-05-2023,Next Day,Ngutang,**
+177,ID0288,18,Wanita,SPXID30640,Fashion,"Rp 102.000,-",19-03-2024,Hemat,Cash,**
+178,ID0592,25,Wanita,SPXID28219,Fashion,"Rp 393.000,-",03-11-2023,Hemat,COD,*****
+179,ID0030,32,Pria,SPXID06802,Home,"Rp 795.000,-",24-06-2023,Reguler,Ngutang,*
+180,ID0938,60,Pria,SPXID04488,Sport,"Rp 964.000,-",11-10-2024,Next Day,Ngutang,**
+181,ID0328,25,Pria,SPXID50007,Fashion,"Rp 923.000,-",20-05-2023,Express,COD,****
+182,ID0638,56,Wanita,SPXID04478,Food,"Rp 255.000,-",30-08-2023,Next Day,Transfer,**
+183,ID0595,58,Pria,SPXID43168,Fashion,"Rp 243.000,-",22-06-2023,Next Day,COD,**
+184,ID0331,39,Wanita,SPXID28787,Home,"Rp 83.000,-",02-08-2023,Reguler,COD,**
+185,ID0355,54,Pria,SPXID43593,Home,"Rp 316.000,-",02-05-2024,Hemat,Transfer,*****
+186,ID0052,35,Pria,SPXID45651,Fashion,"Rp 727.000,-",22-10-2025,Reguler,COD,*****
+187,ID0206,53,Pria,SPXID33575,Electronics,"Rp 486.000,-",26-08-2025,Next Day,Transfer,****
+188,ID0935,25,Pria,SPXID09239,Sport,"Rp 709.000,-",20-08-2023,Next Day,Transfer,****
+189,ID0124,28,Pria,SPXID26496,Electronics,"Rp 559.000,-",06-05-2024,Next Day,Ngutang,*****
+190,ID0418,31,Pria,SPXID05454,Food,"Rp 954.000,-",16-11-2023,Next Day,Cash,****
+191,ID0229,19,Pria,SPXID23529,Sport,"Rp 739.000,-",27-04-2024,Next Day,Cash,*****
+192,ID0540,59,Pria,SPXID30586,Home,"Rp 830.000,-",24-06-2025,Next Day,Cash,*
+193,ID0286,39,Pria,SPXID44680,Food,"Rp 987.000,-",20-09-2023,Next Day,Ngutang,****
+194,ID0766,57,Pria,SPXID40668,Home,"Rp 12.000,-",26-09-2025,Next Day,Transfer,*
+195,ID0414,21,Pria,SPXID42834,Food,"Rp 714.000,-",13-06-2024,Next Day,COD,***
+196,ID0361,36,Pria,SPXID08341,Sport,"Rp 615.000,-",29-01-2024,Reguler,Transfer,**
+197,ID0314,58,Pria,SPXID34334,Electronics,"Rp 956.000,-",18-09-2023,Hemat,Transfer,****
+198,ID0035,30,Wanita,SPXID17660,Food,"Rp 444.000,-",30-02-2025,Next Day,COD,*****
+199,ID0999,27,Pria,SPXID13208,Fashion,"Rp 962.000,-",08-09-2023,Next Day,Cash,*
+200,ID0923,48,Pria,SPXID04055,Electronics,"Rp 56.000,-",23-01-2023,Hemat,COD,*****
+201,ID0097,22,Pria,SPXID05042,Food,"Rp 665.000,-",13-01-2025,Hemat,Ngutang,*****
+202,ID0400,31,Pria,SPXID22931,Fashion,"Rp 812.000,-",25-05-2024,Express,Cash,****
+203,ID0920,22,Wanita,SPXID24883,Electronics,"Rp 356.000,-",30-08-2024,Next Day,COD,*****
+204,ID0561,52,Pria,SPXID15511,Fashion,"Rp 874.000,-",21-06-2025,Reguler,COD,**
+205,ID0718,46,Wanita,SPXID09042,Home,"Rp 227.000,-",19-02-2023,Reguler,Cash,*****
+206,ID0934,40,Pria,SPXID28129,Electronics,"Rp 898.000,-",29-08-2024,Reguler,Transfer,****
+207,ID0490,25,Wanita,SPXID34641,Food,"Rp 263.000,-",27-07-2025,Express,Ngutang,***
+208,ID0512,41,Wanita,SPXID47468,Food,"Rp 498.000,-",29-02-2024,Hemat,COD,**
+209,ID0704,20,Pria,SPXID25790,Fashion,"Rp 634.000,-",09-07-2025,Next Day,Transfer,***
+210,ID0871,59,Wanita,SPXID17838,Electronics,"Rp 524.000,-",15-08-2023,Express,Cash,****
+211,ID0004,44,Pria,SPXID07061,Home,"Rp 773.000,-",18-06-2024,Express,Cash,**
+212,ID0652,44,Pria,SPXID25072,Food,"Rp 280.000,-",06-01-2024,Express,Transfer,**
+213,ID0001,39,Wanita,SPXID19176,Electronics,"Rp 709.000,-",30-09-2024,Hemat,Ngutang,***
+214,ID0244,33,Wanita,SPXID23952,Electronics,"Rp 724.000,-",08-05-2025,Express,Transfer,*****
+215,ID0492,22,Pria,SPXID02039,Home,"Rp 838.000,-",07-05-2025,Express,COD,***
+216,ID0405,49,Pria,SPXID00508,Electronics,"Rp 734.000,-",24-06-2025,Express,Transfer,*****
+217,ID0689,28,Wanita,SPXID22399,Food,"Rp 767.000,-",29-04-2025,Express,COD,****
+218,ID0901,59,Pria,SPXID17479,Electronics,"Rp 815.000,-",11-04-2025,Reguler,Cash,*****
+219,ID0121,20,Pria,SPXID12638,Electronics,"Rp 920.000,-",13-03-2025,Next Day,COD,**
+220,ID0456,25,Pria,SPXID37950,Food,"Rp 273.000,-",17-02-2025,Next Day,Cash,*****
+221,ID0188,52,Wanita,SPXID16660,Fashion,"Rp 494.000,-",25-03-2023,Reguler,Ngutang,****
+222,ID0416,50,Wanita,SPXID45802,Fashion,"Rp 542.000,-",27-10-2025,Hemat,Ngutang,*****
+223,ID0484,51,Wanita,SPXID06689,Fashion,"Rp 548.000,-",30-10-2023,Hemat,Cash,**
+224,ID0759,33,Wanita,SPXID13550,Food,"Rp 796.000,-",01-02-2024,Reguler,Transfer,***
+225,ID0037,59,Wanita,SPXID29518,Fashion,"Rp 539.000,-",18-01-2023,Express,Cash,**
+226,ID0562,18,Pria,SPXID26918,Electronics,"Rp 730.000,-",10-05-2023,Reguler,Ngutang,*****
+227,ID0009,40,Pria,SPXID41547,Sport,"Rp 111.000,-",06-10-2024,Hemat,Transfer,*
+228,ID0425,47,Pria,SPXID01462,Electronics,"Rp 962.000,-",29-10-2025,Hemat,Cash,*
+229,ID0573,25,Wanita,SPXID47785,Fashion,"Rp 133.000,-",26-04-2024,Hemat,Transfer,*****
+230,ID0550,39,Wanita,SPXID12521,Home,"Rp 332.000,-",24-01-2024,Express,Transfer,**
+231,ID0452,39,Wanita,SPXID29428,Electronics,"Rp 125.000,-",17-08-2025,Hemat,Transfer,***
+232,ID0516,23,Wanita,SPXID30673,Home,"Rp 103.000,-",30-05-2024,Hemat,Cash,**
+233,ID0107,44,Pria,SPXID02500,Home,"Rp 878.000,-",25-04-2023,Reguler,Ngutang,***
+234,ID0693,18,Wanita,SPXID43547,Home,"Rp 403.000,-",26-03-2023,Express,Transfer,**
+235,ID0501,24,Wanita,SPXID43238,Home,"Rp 900.000,-",21-04-2023,Next Day,Ngutang,***
+236,ID0198,34,Pria,SPXID07912,Food,"Rp 269.000,-",30-06-2024,Hemat,Ngutang,*
+237,ID0151,47,Wanita,SPXID06635,Food,"Rp 155.000,-",15-04-2024,Express,Cash,***
+238,ID0553,47,Wanita,SPXID06767,Home,"Rp 972.000,-",01-02-2024,Express,Transfer,*
+239,ID0138,21,Pria,SPXID45005,Fashion,"Rp 856.000,-",08-03-2024,Express,Cash,***
+240,ID0509,23,Wanita,SPXID02571,Food,"Rp 589.000,-",24-06-2024,Hemat,Cash,*****
+241,ID0273,46,Pria,SPXID06574,Electronics,"Rp 696.000,-",19-10-2025,Next Day,Ngutang,**
+242,ID0007,56,Wanita,SPXID10685,Sport,"Rp 33.000,-",12-11-2025,Hemat,Cash,***
+243,ID0033,59,Wanita,SPXID14597,Electronics,"Rp 70.000,-",30-10-2024,Reguler,Cash,****
+244,ID0725,42,Pria,SPXID04929,Home,"Rp 531.000,-",25-09-2025,Reguler,COD,**
+245,ID0689,54,Pria,SPXID44226,Home,"Rp 691.000,-",12-04-2023,Next Day,Ngutang,***
+246,ID0454,59,Wanita,SPXID45842,Food,"Rp 454.000,-",22-10-2024,Reguler,Ngutang,*****
+247,ID0488,32,Pria,SPXID22935,Home,"Rp 49.000,-",02-10-2025,Next Day,Cash,***
+248,ID0260,51,Wanita,SPXID38058,Food,"Rp 603.000,-",25-06-2024,Reguler,Cash,**
+249,ID0614,39,Pria,SPXID40659,Food,"Rp 420.000,-",14-05-2025,Next Day,Transfer,***
+250,ID0407,24,Wanita,SPXID06137,Fashion,"Rp 644.000,-",08-11-2024,Next Day,Cash,*****
+251,ID0761,29,Wanita,SPXID48032,Food,"Rp 614.000,-",19-11-2024,Next Day,Ngutang,*****
+252,ID0854,60,Wanita,SPXID03699,Fashion,"Rp 806.000,-",23-03-2024,Next Day,Cash,***
+253,ID0996,38,Wanita,SPXID33115,Food,"Rp 525.000,-",29-06-2025,Next Day,Transfer,**
+254,ID0008,35,Pria,SPXID28998,Fashion,"Rp 898.000,-",20-08-2023,Hemat,Cash,***
+255,ID0929,50,Wanita,SPXID21142,Home,"Rp 849.000,-",18-04-2023,Next Day,Ngutang,*****
+256,ID0073,52,Wanita,SPXID07812,Home,"Rp 231.000,-",23-02-2023,Express,Ngutang,***
+257,ID0892,19,Pria,SPXID00285,Sport,"Rp 517.000,-",02-05-2023,Express,Transfer,*****
+258,ID0600,37,Pria,SPXID45724,Food,"Rp 352.000,-",15-10-2025,Next Day,COD,*****
+259,ID0925,32,Wanita,SPXID00907,Food,"Rp 381.000,-",01-07-2024,Reguler,Cash,***
+260,ID0350,38,Wanita,SPXID37628,Food,"Rp 620.000,-",04-06-2023,Express,Transfer,**
+261,ID0461,27,Pria,SPXID11855,Home,"Rp 476.000,-",08-10-2023,Express,Ngutang,***
+262,ID0590,19,Pria,SPXID17113,Food,"Rp 240.000,-",25-09-2024,Express,Ngutang,****
+263,ID0678,29,Pria,SPXID19944,Food,"Rp 418.000,-",01-05-2023,Next Day,Transfer,****
+264,ID0981,57,Wanita,SPXID40556,Sport,"Rp 913.000,-",01-08-2025,Next Day,COD,*
+265,ID0526,23,Wanita,SPXID32492,Sport,"Rp 547.000,-",07-08-2023,Next Day,Cash,**
+266,ID0741,22,Wanita,SPXID34341,Food,"Rp 642.000,-",11-08-2025,Reguler,Transfer,**
+267,ID0538,40,Wanita,SPXID45728,Home,"Rp 461.000,-",20-03-2024,Express,Transfer,***
+268,ID0370,59,Pria,SPXID39009,Sport,"Rp 85.000,-",14-09-2025,Reguler,COD,*****
+269,ID0487,48,Wanita,SPXID13268,Electronics,"Rp 937.000,-",26-11-2023,Reguler,Ngutang,**
+270,ID0711,26,Pria,SPXID44662,Fashion,"Rp 378.000,-",04-02-2023,Express,COD,***
+271,ID0242,24,Pria,SPXID48198,Fashion,"Rp 811.000,-",18-01-2023,Hemat,Cash,****
+272,ID0160,38,Pria,SPXID38664,Home,"Rp 120.000,-",03-09-2024,Hemat,COD,*
+273,ID0974,45,Wanita,SPXID39593,Sport,"Rp 876.000,-",01-02-2024,Express,COD,*****
+274,ID0722,23,Pria,SPXID27260,Home,"Rp 631.000,-",14-04-2024,Next Day,Ngutang,****
+275,ID0997,43,Wanita,SPXID16225,Sport,"Rp 759.000,-",27-04-2024,Next Day,Ngutang,***
+276,ID0809,42,Pria,SPXID25054,Sport,"Rp 26.000,-",18-07-2025,Hemat,Ngutang,***
+277,ID0717,25,Pria,SPXID49353,Fashion,"Rp 387.000,-",03-06-2025,Hemat,Transfer,*****
+278,ID0366,34,Wanita,SPXID26640,Sport,"Rp 531.000,-",25-01-2024,Reguler,Ngutang,****
+279,ID0363,35,Wanita,SPXID34059,Electronics,"Rp 602.000,-",01-08-2023,Next Day,Cash,**
+280,ID0599,56,Pria,SPXID28034,Electronics,"Rp 608.000,-",04-09-2023,Next Day,COD,*
+281,ID0205,37,Pria,SPXID40460,Home,"Rp 113.000,-",20-07-2024,Express,Transfer,***
+282,ID0583,43,Wanita,SPXID05893,Food,"Rp 929.000,-",02-04-2024,Hemat,Cash,*****
+283,ID0500,46,Pria,SPXID02721,Electronics,"Rp 690.000,-",28-07-2023,Hemat,Cash,****
+284,ID0019,51,Wanita,SPXID16334,Home,"Rp 49.000,-",20-02-2024,Hemat,Ngutang,*****
+285,ID0650,20,Wanita,SPXID15467,Sport,"Rp 110.000,-",23-07-2024,Next Day,Transfer,**
+286,ID0800,34,Wanita,SPXID16652,Food,"Rp 627.000,-",26-11-2025,Reguler,Ngutang,***
+287,ID0276,29,Wanita,SPXID33098,Electronics,"Rp 65.000,-",25-06-2025,Hemat,COD,**
+288,ID0219,30,Wanita,SPXID28202,Home,"Rp 122.000,-",09-07-2025,Reguler,Transfer,****
+289,ID0702,42,Wanita,SPXID06832,Fashion,"Rp 584.000,-",22-09-2023,Reguler,Ngutang,*****
+290,ID0474,50,Pria,SPXID04370,Electronics,"Rp 501.000,-",16-07-2025,Next Day,COD,***
+291,ID0557,38,Pria,SPXID23176,Home,"Rp 551.000,-",05-01-2023,Express,COD,*****
+292,ID0519,60,Wanita,SPXID49556,Electronics,"Rp 592.000,-",23-09-2024,Express,COD,*****
+293,ID0918,56,Pria,SPXID39236,Home,"Rp 922.000,-",04-04-2025,Next Day,Ngutang,**
+294,ID0924,34,Pria,SPXID23283,Fashion,"Rp 931.000,-",05-03-2024,Next Day,COD,***
+295,ID0715,43,Pria,SPXID42974,Sport,"Rp 444.000,-",13-04-2023,Next Day,Ngutang,****
+296,ID0207,44,Pria,SPXID26297,Electronics,"Rp 377.000,-",25-03-2023,Next Day,Cash,**
+297,ID0927,52,Pria,SPXID01832,Sport,"Rp 718.000,-",07-08-2023,Express,Ngutang,*
+298,ID0520,56,Wanita,SPXID49733,Home,"Rp 96.000,-",14-08-2023,Express,Cash,****
+299,ID0024,60,Pria,SPXID32251,Fashion,"Rp 368.000,-",19-10-2025,Express,Ngutang,**
+300,ID0265,53,Wanita,SPXID26168,Food,"Rp 884.000,-",13-03-2025,Reguler,Ngutang,****
+301,ID0379,60,Wanita,SPXID18393,Fashion,"Rp 561.000,-",26-02-2024,Hemat,Transfer,*****
+302,ID0858,50,Wanita,SPXID24334,Electronics,"Rp 731.000,-",09-02-2023,Hemat,COD,*
+303,ID0594,52,Pria,SPXID11819,Electronics,"Rp 430.000,-",12-06-2024,Reguler,Ngutang,***
+304,ID0565,37,Wanita,SPXID09262,Electronics,"Rp 585.000,-",13-10-2023,Next Day,Ngutang,*****
+305,ID0360,43,Wanita,SPXID24141,Fashion,"Rp 81.000,-",19-02-2024,Express,Ngutang,****
+306,ID0948,27,Pria,SPXID14936,Electronics,"Rp 876.000,-",16-01-2024,Next Day,Transfer,*****
+307,ID0276,50,Pria,SPXID26699,Sport,"Rp 645.000,-",27-07-2024,Reguler,COD,*****
+308,ID0415,20,Wanita,SPXID21613,Food,"Rp 754.000,-",22-06-2023,Reguler,Cash,***
+309,ID0172,43,Wanita,SPXID12683,Food,"Rp 527.000,-",04-02-2023,Reguler,Transfer,*
+310,ID0167,23,Wanita,SPXID24343,Electronics,"Rp 766.000,-",12-01-2025,Hemat,COD,**
+311,ID0795,44,Pria,SPXID00454,Home,"Rp 934.000,-",26-06-2025,Hemat,Transfer,**
+312,ID0909,42,Pria,SPXID45914,Sport,"Rp 90.000,-",10-10-2025,Express,Transfer,***
+313,ID0579,22,Wanita,SPXID41879,Sport,"Rp 12.000,-",05-02-2024,Hemat,Ngutang,*
+314,ID0597,56,Pria,SPXID03478,Electronics,"Rp 817.000,-",15-02-2023,Reguler,COD,*
+315,ID0892,24,Pria,SPXID06043,Fashion,"Rp 106.000,-",16-02-2024,Hemat,Cash,***
+316,ID0484,36,Wanita,SPXID35706,Fashion,"Rp 893.000,-",28-08-2023,Next Day,Transfer,*
+317,ID0002,29,Wanita,SPXID03251,Home,"Rp 353.000,-",08-11-2023,Hemat,Cash,**
+318,ID0666,27,Wanita,SPXID03495,Home,"Rp 736.000,-",04-10-2024,Hemat,Transfer,*****
+319,ID0471,40,Wanita,SPXID31080,Electronics,"Rp 560.000,-",20-07-2023,Express,Transfer,****
+320,ID0493,59,Pria,SPXID05005,Sport,"Rp 158.000,-",13-07-2023,Express,Transfer,*
+321,ID0302,48,Pria,SPXID01858,Home,"Rp 667.000,-",13-03-2024,Reguler,Cash,*
+322,ID0501,31,Pria,SPXID30397,Sport,"Rp 552.000,-",14-03-2025,Reguler,COD,****
+323,ID0009,22,Pria,SPXID02562,Sport,"Rp 249.000,-",10-01-2024,Next Day,Transfer,*****
+324,ID0975,56,Pria,SPXID46627,Fashion,"Rp 699.000,-",09-09-2023,Next Day,COD,*
+325,ID0023,54,Wanita,SPXID40971,Fashion,"Rp 684.000,-",16-02-2023,Reguler,COD,*****
+326,ID0820,19,Pria,SPXID12311,Fashion,"Rp 513.000,-",17-01-2025,Hemat,Cash,*
+327,ID0874,51,Pria,SPXID10734,Food,"Rp 283.000,-",27-03-2024,Express,Transfer,*****
+328,ID0521,56,Wanita,SPXID29376,Sport,"Rp 369.000,-",10-10-2024,Hemat,Ngutang,***
+329,ID0563,27,Wanita,SPXID25923,Sport,"Rp 138.000,-",01-05-2025,Next Day,Ngutang,***
+330,ID0665,58,Pria,SPXID28697,Home,"Rp 327.000,-",02-09-2023,Hemat,COD,****
+331,ID0349,37,Pria,SPXID23592,Fashion,"Rp 828.000,-",07-01-2023,Reguler,Cash,**
+332,ID0714,18,Pria,SPXID24137,Sport,"Rp 121.000,-",15-03-2024,Reguler,Cash,*
+333,ID0390,24,Pria,SPXID10405,Food,"Rp 876.000,-",30-02-2024,Reguler,Ngutang,****
+334,ID0373,36,Wanita,SPXID11653,Home,"Rp 727.000,-",19-06-2024,Hemat,Ngutang,*****
+335,ID0182,56,Pria,SPXID09527,Food,"Rp 546.000,-",09-09-2023,Express,Transfer,***
+336,ID0682,30,Pria,SPXID44368,Electronics,"Rp 671.000,-",20-11-2024,Next Day,Ngutang,****
+337,ID0264,18,Wanita,SPXID21227,Electronics,"Rp 194.000,-",08-03-2023,Reguler,COD,****
+338,ID0624,50,Wanita,SPXID46652,Electronics,"Rp 406.000,-",05-07-2024,Next Day,Transfer,**
+339,ID0633,41,Wanita,SPXID22671,Home,"Rp 733.000,-",14-09-2024,Hemat,Transfer,**
+340,ID0650,39,Wanita,SPXID39490,Fashion,"Rp 964.000,-",01-01-2023,Express,COD,****
+341,ID0230,46,Pria,SPXID30634,Home,"Rp 503.000,-",02-07-2023,Next Day,COD,***
+342,ID0495,18,Wanita,SPXID20732,Home,"Rp 589.000,-",13-10-2023,Next Day,Ngutang,*****
+343,ID0438,32,Wanita,SPXID40443,Fashion,"Rp 971.000,-",15-08-2025,Reguler,Ngutang,****
+344,ID0333,24,Wanita,SPXID22400,Fashion,"Rp 718.000,-",30-05-2024,Reguler,Cash,**
+345,ID0628,28,Pria,SPXID17148,Sport,"Rp 326.000,-",25-08-2025,Express,Transfer,***
+346,ID0747,32,Pria,SPXID43853,Electronics,"Rp 189.000,-",08-08-2025,Hemat,Cash,**
+347,ID0418,27,Pria,SPXID17716,Food,"Rp 657.000,-",19-05-2023,Express,Cash,*
+348,ID0860,55,Wanita,SPXID28371,Sport,"Rp 861.000,-",28-03-2023,Hemat,Transfer,*****
+349,ID0617,59,Wanita,SPXID11388,Fashion,"Rp 191.000,-",26-05-2024,Hemat,Transfer,**
+350,ID0318,30,Pria,SPXID17246,Food,"Rp 477.000,-",09-03-2023,Hemat,Cash,*
+351,ID0365,46,Pria,SPXID38374,Food,"Rp 324.000,-",18-01-2024,Hemat,Transfer,*****
+352,ID0249,43,Pria,SPXID17118,Electronics,"Rp 39.000,-",18-02-2023,Hemat,Cash,**
+353,ID0554,49,Wanita,SPXID48646,Home,"Rp 699.000,-",24-05-2025,Hemat,Ngutang,***
+354,ID0166,37,Wanita,SPXID26027,Sport,"Rp 860.000,-",24-09-2025,Express,Ngutang,*****
+355,ID0146,23,Pria,SPXID49019,Home,"Rp 751.000,-",17-10-2024,Next Day,Cash,*****
+356,ID0174,38,Wanita,SPXID44795,Sport,"Rp 357.000,-",09-01-2024,Express,Cash,*****
+357,ID0790,43,Wanita,SPXID34885,Food,"Rp 248.000,-",05-11-2024,Reguler,Cash,*
+358,ID0179,43,Wanita,SPXID25342,Food,"Rp 54.000,-",08-04-2025,Next Day,COD,*
+359,ID0656,45,Pria,SPXID45921,Electronics,"Rp 593.000,-",30-08-2024,Next Day,Transfer,**
+360,ID0679,48,Wanita,SPXID02899,Sport,"Rp 79.000,-",11-05-2024,Hemat,Cash,*****
+361,ID0314,37,Wanita,SPXID16987,Sport,"Rp 85.000,-",03-03-2024,Express,Cash,****
+362,ID0439,34,Wanita,SPXID06732,Food,"Rp 687.000,-",13-11-2023,Reguler,Cash,****
+363,ID0700,50,Wanita,SPXID47153,Sport,"Rp 584.000,-",17-06-2024,Hemat,COD,*
+364,ID0541,57,Pria,SPXID50087,Sport,"Rp 20.000,-",15-04-2025,Reguler,Ngutang,**
+365,ID0246,39,Wanita,SPXID08437,Electronics,"Rp 287.000,-",21-07-2024,Express,Ngutang,***
+366,ID0037,43,Wanita,SPXID14259,Sport,"Rp 51.000,-",14-05-2025,Express,Transfer,*
+367,ID0462,33,Wanita,SPXID46697,Home,"Rp 486.000,-",11-07-2023,Reguler,Transfer,*****
+368,ID0225,43,Wanita,SPXID29474,Food,"Rp 692.000,-",30-07-2025,Next Day,COD,****
+369,ID0139,40,Pria,SPXID35166,Sport,"Rp 401.000,-",11-02-2023,Express,Transfer,*****
+370,ID0129,30,Wanita,SPXID36110,Home,"Rp 95.000,-",11-04-2025,Express,COD,***
+371,ID0705,23,Wanita,SPXID30299,Fashion,"Rp 137.000,-",01-03-2023,Next Day,Transfer,****
+372,ID0018,60,Pria,SPXID02769,Sport,"Rp 758.000,-",28-07-2024,Hemat,Cash,***
+373,ID0120,19,Wanita,SPXID29721,Fashion,"Rp 885.000,-",28-02-2024,Express,COD,****
+374,ID0030,31,Pria,SPXID08556,Home,"Rp 631.000,-",04-07-2024,Reguler,Cash,*
+375,ID0154,36,Wanita,SPXID48352,Home,"Rp 393.000,-",03-07-2023,Reguler,Ngutang,**
+376,ID0462,35,Wanita,SPXID43504,Home,"Rp 41.000,-",08-04-2024,Next Day,Transfer,*****
+377,ID0329,48,Pria,SPXID37708,Electronics,"Rp 510.000,-",25-07-2025,Next Day,Cash,**
+378,ID0842,36,Wanita,SPXID38030,Fashion,"Rp 795.000,-",21-04-2025,Hemat,COD,*****
+379,ID0006,31,Wanita,SPXID26823,Home,"Rp 562.000,-",18-07-2024,Hemat,COD,***
+380,ID0201,32,Wanita,SPXID00314,Sport,"Rp 869.000,-",02-04-2024,Express,Transfer,***
+381,ID0218,59,Wanita,SPXID39650,Electronics,"Rp 391.000,-",17-02-2025,Next Day,Ngutang,**
+382,ID0482,25,Pria,SPXID42162,Home,"Rp 20.000,-",19-08-2023,Express,Ngutang,***
+383,ID0819,44,Pria,SPXID41662,Home,"Rp 142.000,-",08-09-2025,Hemat,COD,**
+384,ID0012,26,Pria,SPXID46679,Fashion,"Rp 746.000,-",29-02-2025,Hemat,Transfer,*****
+385,ID0657,60,Wanita,SPXID35252,Fashion,"Rp 488.000,-",01-06-2023,Next Day,Cash,***
+386,ID0446,37,Pria,SPXID49364,Food,"Rp 249.000,-",20-08-2023,Hemat,Cash,*****
+387,ID0314,20,Pria,SPXID38487,Food,"Rp 250.000,-",17-02-2025,Reguler,COD,**
+388,ID0523,50,Pria,SPXID28075,Food,"Rp 675.000,-",21-03-2025,Hemat,Cash,***
+389,ID0642,58,Pria,SPXID06655,Home,"Rp 578.000,-",08-01-2025,Next Day,COD,**
+390,ID0300,26,Pria,SPXID29517,Sport,"Rp 250.000,-",26-06-2023,Express,Cash,***
+391,ID0640,52,Wanita,SPXID40909,Fashion,"Rp 934.000,-",27-03-2023,Hemat,Ngutang,**
+392,ID0121,48,Pria,SPXID43621,Food,"Rp 440.000,-",17-06-2025,Next Day,Ngutang,**
+393,ID0123,52,Pria,SPXID39605,Food,"Rp 839.000,-",28-11-2024,Next Day,Transfer,**
+394,ID0549,53,Pria,SPXID04308,Sport,"Rp 781.000,-",05-11-2024,Next Day,Cash,****
+395,ID0018,19,Pria,SPXID48011,Electronics,"Rp 166.000,-",13-03-2023,Hemat,Transfer,***
+396,ID0644,25,Pria,SPXID32647,Electronics,"Rp 399.000,-",06-05-2024,Reguler,Cash,*
+397,ID0820,42,Wanita,SPXID12345,Electronics,"Rp 596.000,-",18-07-2025,Reguler,Transfer,*
+398,ID0600,35,Wanita,SPXID42916,Fashion,"Rp 955.000,-",01-05-2025,Next Day,Cash,***
+399,ID0893,40,Pria,SPXID45554,Electronics,"Rp 337.000,-",14-02-2023,Hemat,COD,**
+400,ID0939,59,Pria,SPXID16262,Electronics,"Rp 756.000,-",06-10-2025,Reguler,COD,***
+401,ID0532,52,Wanita,SPXID34058,Electronics,"Rp 470.000,-",14-01-2024,Hemat,Ngutang,*****
+402,ID0988,18,Wanita,SPXID43890,Sport,"Rp 688.000,-",30-02-2025,Hemat,Transfer,*****
+403,ID0415,24,Pria,SPXID06142,Sport,"Rp 546.000,-",02-09-2023,Hemat,Transfer,***
+404,ID0687,42,Pria,SPXID15085,Food,"Rp 915.000,-",27-10-2024,Express,Cash,****
+405,ID0445,37,Wanita,SPXID10690,Sport,"Rp 158.000,-",01-10-2025,Express,COD,***
+406,ID0853,52,Wanita,SPXID07395,Fashion,"Rp 161.000,-",17-01-2025,Express,Cash,**
+407,ID0890,51,Wanita,SPXID07320,Food,"Rp 57.000,-",22-05-2023,Reguler,COD,****
+408,ID0682,18,Wanita,SPXID05551,Food,"Rp 135.000,-",28-08-2025,Reguler,Transfer,****
+409,ID0254,18,Pria,SPXID15199,Sport,"Rp 879.000,-",24-11-2025,Hemat,Cash,*
+410,ID0979,29,Wanita,SPXID30980,Fashion,"Rp 416.000,-",11-07-2023,Hemat,COD,****
+411,ID0466,53,Wanita,SPXID04632,Electronics,"Rp 350.000,-",25-01-2024,Express,Ngutang,*****
+412,ID0506,45,Pria,SPXID37486,Electronics,"Rp 909.000,-",17-02-2023,Hemat,Ngutang,*****
+413,ID0500,42,Wanita,SPXID33283,Fashion,"Rp 592.000,-",15-09-2025,Express,Cash,**
+414,ID0745,28,Pria,SPXID25045,Fashion,"Rp 242.000,-",25-06-2025,Reguler,COD,****
+415,ID0494,30,Wanita,SPXID35992,Home,"Rp 784.000,-",20-08-2023,Express,Cash,*
+416,ID0576,22,Pria,SPXID00841,Sport,"Rp 91.000,-",11-10-2024,Next Day,COD,****
+417,ID0037,40,Wanita,SPXID04161,Home,"Rp 266.000,-",04-02-2024,Hemat,Cash,****
+418,ID0676,31,Wanita,SPXID25494,Fashion,"Rp 557.000,-",22-07-2023,Hemat,Cash,**
+419,ID0486,22,Pria,SPXID36614,Fashion,"Rp 729.000,-",16-01-2024,Next Day,Ngutang,**
+420,ID0748,53,Wanita,SPXID02245,Home,"Rp 398.000,-",21-11-2025,Reguler,COD,****
+421,ID0304,44,Wanita,SPXID11471,Food,"Rp 416.000,-",04-11-2025,Express,Ngutang,*
+422,ID0459,50,Wanita,SPXID16625,Electronics,"Rp 192.000,-",05-06-2024,Next Day,COD,*****
+423,ID0517,54,Pria,SPXID29033,Sport,"Rp 362.000,-",16-07-2024,Express,Ngutang,**
+424,ID0046,32,Wanita,SPXID21243,Food,"Rp 441.000,-",22-10-2024,Express,Ngutang,**
+425,ID0512,35,Wanita,SPXID12356,Home,"Rp 363.000,-",12-10-2025,Next Day,Cash,***
+426,ID0633,47,Wanita,SPXID05159,Fashion,"Rp 583.000,-",25-03-2024,Next Day,Ngutang,**
+427,ID0368,55,Wanita,SPXID25644,Food,"Rp 725.000,-",28-10-2024,Express,COD,*
+428,ID0812,51,Wanita,SPXID38334,Food,"Rp 859.000,-",23-10-2024,Hemat,Ngutang,**
+429,ID0689,45,Wanita,SPXID31832,Food,"Rp 265.000,-",21-10-2024,Reguler,COD,***
+430,ID0126,19,Pria,SPXID03697,Food,"Rp 831.000,-",26-04-2024,Reguler,COD,*****
+431,ID0671,59,Wanita,SPXID32304,Sport,"Rp 377.000,-",20-03-2024,Express,Transfer,*
+432,ID0546,41,Wanita,SPXID18184,Food,"Rp 389.000,-",28-06-2025,Reguler,Cash,**
+433,ID0943,41,Pria,SPXID12159,Sport,"Rp 711.000,-",06-11-2023,Reguler,COD,**
+434,ID0859,28,Pria,SPXID43976,Food,"Rp 864.000,-",07-07-2024,Next Day,Transfer,****
+435,ID0123,42,Wanita,SPXID38642,Sport,"Rp 456.000,-",21-08-2023,Hemat,COD,***
+436,ID0797,55,Pria,SPXID28795,Food,"Rp 766.000,-",02-06-2023,Reguler,Ngutang,*
+437,ID0162,35,Wanita,SPXID39561,Electronics,"Rp 20.000,-",30-07-2024,Next Day,Transfer,*
+438,ID0545,21,Wanita,SPXID44368,Home,"Rp 817.000,-",05-02-2024,Express,Transfer,**
+439,ID0348,56,Wanita,SPXID46573,Electronics,"Rp 612.000,-",22-11-2025,Express,COD,*****
+440,ID0915,40,Pria,SPXID09060,Electronics,"Rp 636.000,-",20-03-2025,Express,COD,**
+441,ID0434,26,Pria,SPXID11347,Fashion,"Rp 534.000,-",13-03-2023,Reguler,COD,*
+442,ID0019,29,Wanita,SPXID36563,Home,"Rp 862.000,-",22-11-2024,Hemat,Cash,*
+443,ID0625,33,Pria,SPXID08358,Food,"Rp 884.000,-",19-10-2025,Hemat,COD,*****
+444,ID0085,25,Wanita,SPXID36380,Fashion,"Rp 543.000,-",28-01-2024,Express,Transfer,*
+445,ID0173,22,Pria,SPXID46408,Sport,"Rp 976.000,-",16-05-2023,Hemat,Cash,**
+446,ID0235,30,Pria,SPXID35744,Home,"Rp 657.000,-",04-09-2025,Next Day,Transfer,****
+447,ID0393,33,Wanita,SPXID18674,Home,"Rp 831.000,-",24-07-2025,Express,COD,***
+448,ID0574,50,Wanita,SPXID05618,Home,"Rp 467.000,-",19-11-2023,Express,Transfer,****
+449,ID0662,60,Pria,SPXID48177,Sport,"Rp 436.000,-",02-11-2024,Express,Ngutang,*
+450,ID0820,35,Wanita,SPXID48718,Sport,"Rp 825.000,-",12-01-2024,Express,COD,****
+451,ID0288,23,Pria,SPXID26537,Electronics,"Rp 42.000,-",08-05-2024,Express,Transfer,**
+452,ID0280,38,Wanita,SPXID19126,Electronics,"Rp 863.000,-",15-11-2024,Express,Ngutang,***
+453,ID0118,55,Pria,SPXID44484,Food,"Rp 959.000,-",19-10-2025,Hemat,Ngutang,*
+454,ID0441,28,Wanita,SPXID28322,Home,"Rp 531.000,-",13-06-2024,Express,Transfer,***
+455,ID0334,47,Wanita,SPXID24066,Electronics,"Rp 276.000,-",22-05-2023,Next Day,COD,*****
+456,ID0155,35,Pria,SPXID02111,Sport,"Rp 413.000,-",03-03-2023,Hemat,Transfer,****
+457,ID0552,23,Pria,SPXID47352,Food,"Rp 331.000,-",05-10-2023,Reguler,Cash,*****
+458,ID0902,46,Pria,SPXID46925,Sport,"Rp 425.000,-",21-11-2023,Reguler,COD,*****
+459,ID0229,28,Wanita,SPXID38636,Home,"Rp 302.000,-",09-11-2025,Express,Cash,***
+460,ID0632,42,Wanita,SPXID20723,Fashion,"Rp 147.000,-",24-11-2023,Next Day,Ngutang,*****
+461,ID0928,39,Pria,SPXID38598,Fashion,"Rp 318.000,-",27-01-2025,Next Day,Ngutang,****
+462,ID0384,52,Pria,SPXID30794,Electronics,"Rp 534.000,-",08-05-2025,Express,Transfer,*****
+463,ID0683,40,Pria,SPXID11264,Food,"Rp 627.000,-",04-07-2025,Express,Ngutang,****
+464,ID0425,33,Wanita,SPXID17163,Food,"Rp 402.000,-",13-07-2024,Reguler,COD,***
+465,ID0848,46,Wanita,SPXID36572,Sport,"Rp 784.000,-",23-09-2025,Reguler,Cash,****
+466,ID0167,54,Wanita,SPXID21003,Food,"Rp 221.000,-",10-02-2025,Reguler,Cash,*
+467,ID0822,21,Pria,SPXID36728,Sport,"Rp 855.000,-",04-01-2023,Hemat,Transfer,***
+468,ID0192,41,Wanita,SPXID31364,Electronics,"Rp 149.000,-",06-05-2025,Hemat,Transfer,*
+469,ID0739,27,Wanita,SPXID47029,Sport,"Rp 110.000,-",29-09-2024,Next Day,Transfer,*
+470,ID0366,26,Wanita,SPXID26807,Home,"Rp 124.000,-",18-11-2023,Hemat,COD,*
+471,ID0171,31,Pria,SPXID19492,Electronics,"Rp 543.000,-",16-01-2023,Hemat,Ngutang,****
+472,ID0803,36,Wanita,SPXID31589,Food,"Rp 859.000,-",29-09-2025,Hemat,Ngutang,*
+473,ID0854,18,Wanita,SPXID25511,Home,"Rp 108.000,-",01-11-2025,Express,Ngutang,**
+474,ID0499,19,Wanita,SPXID23304,Fashion,"Rp 457.000,-",20-07-2024,Reguler,Ngutang,*****
+475,ID0267,38,Pria,SPXID11282,Home,"Rp 507.000,-",23-02-2024,Next Day,Transfer,*****
+476,ID0153,25,Pria,SPXID31476,Electronics,"Rp 50.000,-",30-01-2023,Reguler,Ngutang,*****
+477,ID0187,46,Pria,SPXID23445,Fashion,"Rp 668.000,-",29-09-2025,Reguler,COD,*****
+478,ID0437,31,Pria,SPXID31338,Electronics,"Rp 238.000,-",13-03-2025,Next Day,Cash,*
+479,ID0070,20,Pria,SPXID04703,Home,"Rp 711.000,-",08-05-2023,Reguler,Transfer,*
+480,ID0070,21,Pria,SPXID09234,Electronics,"Rp 289.000,-",30-02-2024,Hemat,Cash,*****
+481,ID0705,29,Wanita,SPXID30168,Electronics,"Rp 439.000,-",13-08-2025,Reguler,Transfer,*****
+482,ID0647,42,Wanita,SPXID19612,Home,"Rp 668.000,-",18-08-2023,Express,COD,**
+483,ID0317,28,Wanita,SPXID21186,Food,"Rp 506.000,-",04-05-2025,Reguler,Cash,*****
+484,ID0070,58,Wanita,SPXID09145,Sport,"Rp 498.000,-",15-02-2023,Express,COD,****
+485,ID0616,35,Wanita,SPXID21630,Sport,"Rp 579.000,-",23-07-2024,Express,Transfer,**
+486,ID0496,19,Wanita,SPXID38470,Food,"Rp 463.000,-",13-02-2025,Express,Transfer,****
+487,ID0287,26,Pria,SPXID24921,Home,"Rp 598.000,-",05-03-2023,Express,Cash,***
+488,ID0345,50,Pria,SPXID25428,Food,"Rp 277.000,-",13-07-2023,Next Day,Ngutang,***
+489,ID0429,23,Pria,SPXID11477,Electronics,"Rp 142.000,-",11-06-2024,Express,Transfer,*****
+490,ID0681,45,Pria,SPXID06285,Food,"Rp 530.000,-",28-11-2024,Reguler,Cash,**
+491,ID0584,21,Wanita,SPXID11831,Home,"Rp 540.000,-",15-03-2024,Next Day,Cash,****
+492,ID0795,42,Wanita,SPXID02095,Sport,"Rp 256.000,-",21-01-2023,Express,Cash,*****
+493,ID0121,46,Pria,SPXID05189,Fashion,"Rp 736.000,-",09-04-2025,Reguler,Ngutang,****
+494,ID0135,60,Wanita,SPXID10974,Fashion,"Rp 583.000,-",01-02-2025,Next Day,Cash,****
+495,ID0172,56,Wanita,SPXID14302,Electronics,"Rp 618.000,-",14-09-2025,Express,Ngutang,****
+496,ID0414,41,Wanita,SPXID33640,Electronics,"Rp 735.000,-",02-10-2025,Hemat,Ngutang,*****
+497,ID0050,22,Pria,SPXID05660,Fashion,"Rp 840.000,-",26-03-2025,Express,COD,***
+498,ID0658,48,Pria,SPXID40047,Sport,"Rp 394.000,-",16-05-2025,Next Day,Transfer,****
+499,ID0344,28,Wanita,SPXID12569,Fashion,"Rp 333.000,-",17-01-2023,Hemat,Cash,***
+500,ID0147,42,Wanita,SPXID41584,Fashion,"Rp 214.000,-",11-08-2023,Reguler,Cash,**
+501,ID0185,52,Wanita,SPXID49612,Food,"Rp 11.000,-",20-04-2024,Next Day,Ngutang,*
+502,ID0267,33,Wanita,SPXID27776,Home,"Rp 774.000,-",09-02-2025,Hemat,COD,**
+503,ID0894,30,Wanita,SPXID44378,Fashion,"Rp 299.000,-",23-07-2023,Express,COD,****
+504,ID0430,28,Pria,SPXID26308,Food,"Rp 618.000,-",08-07-2024,Hemat,Transfer,*****
+505,ID0210,45,Pria,SPXID14735,Sport,"Rp 330.000,-",23-09-2025,Reguler,COD,*
+506,ID0902,33,Wanita,SPXID34055,Food,"Rp 638.000,-",10-03-2023,Next Day,COD,****
+507,ID0621,39,Wanita,SPXID13982,Fashion,"Rp 988.000,-",18-05-2023,Express,Ngutang,***
+508,ID0167,36,Wanita,SPXID33856,Fashion,"Rp 585.000,-",26-04-2023,Next Day,COD,****
+509,ID0299,19,Pria,SPXID21332,Fashion,"Rp 834.000,-",28-03-2024,Next Day,Transfer,**
+510,ID0080,38,Pria,SPXID19771,Sport,"Rp 161.000,-",28-08-2024,Express,Ngutang,****
+511,ID0961,27,Pria,SPXID32342,Electronics,"Rp 628.000,-",13-06-2023,Hemat,Transfer,*
+512,ID0799,55,Pria,SPXID27008,Fashion,"Rp 352.000,-",20-03-2023,Hemat,Ngutang,*****
+513,ID0542,23,Pria,SPXID43338,Food,"Rp 595.000,-",21-09-2025,Hemat,Cash,**
+514,ID0669,24,Wanita,SPXID15628,Electronics,"Rp 468.000,-",03-04-2024,Next Day,Ngutang,*****
+515,ID0695,37,Wanita,SPXID30065,Sport,"Rp 575.000,-",10-04-2024,Reguler,Ngutang,*
+516,ID0112,56,Pria,SPXID22498,Sport,"Rp 706.000,-",19-09-2025,Reguler,Ngutang,***
+517,ID0719,45,Pria,SPXID22616,Food,"Rp 363.000,-",24-05-2023,Next Day,Transfer,*****
+518,ID0452,52,Wanita,SPXID47844,Sport,"Rp 239.000,-",20-06-2025,Express,Cash,****
+519,ID0119,43,Pria,SPXID49378,Sport,"Rp 780.000,-",08-06-2025,Next Day,COD,****
+520,ID0432,37,Pria,SPXID28798,Fashion,"Rp 554.000,-",02-01-2025,Hemat,COD,**
+521,ID0475,33,Pria,SPXID08112,Electronics,"Rp 272.000,-",30-03-2025,Express,Ngutang,****
+522,ID0678,28,Pria,SPXID25022,Food,"Rp 447.000,-",03-01-2024,Reguler,Ngutang,*
+523,ID0143,49,Wanita,SPXID29181,Food,"Rp 86.000,-",18-04-2024,Next Day,Cash,**
+524,ID0302,52,Wanita,SPXID09137,Home,"Rp 939.000,-",25-09-2025,Hemat,Cash,***
+525,ID0221,56,Pria,SPXID37797,Fashion,"Rp 377.000,-",28-04-2023,Hemat,Ngutang,***
+526,ID0571,56,Pria,SPXID36872,Sport,"Rp 585.000,-",21-10-2023,Reguler,Transfer,*
+527,ID0222,49,Pria,SPXID06995,Food,"Rp 874.000,-",30-08-2025,Express,Ngutang,*****
+528,ID0970,33,Wanita,SPXID49605,Electronics,"Rp 140.000,-",29-05-2023,Reguler,COD,****
+529,ID0363,40,Wanita,SPXID32600,Electronics,"Rp 264.000,-",02-05-2024,Next Day,Transfer,****
+530,ID0617,18,Wanita,SPXID33789,Home,"Rp 354.000,-",18-07-2023,Hemat,Transfer,*****
+531,ID0356,41,Wanita,SPXID27548,Food,"Rp 893.000,-",18-05-2023,Reguler,Transfer,****
+532,ID0754,49,Pria,SPXID16539,Fashion,"Rp 378.000,-",13-04-2024,Reguler,Cash,*
+533,ID0091,31,Wanita,SPXID15780,Sport,"Rp 621.000,-",19-02-2024,Express,Transfer,*****
+534,ID0579,41,Wanita,SPXID35559,Sport,"Rp 264.000,-",21-05-2024,Next Day,Transfer,**
+535,ID0505,47,Pria,SPXID18577,Electronics,"Rp 599.000,-",15-04-2024,Hemat,Ngutang,***
+536,ID0611,36,Pria,SPXID36218,Food,"Rp 491.000,-",26-05-2023,Next Day,Ngutang,****
+537,ID0945,45,Wanita,SPXID15165,Home,"Rp 307.000,-",12-02-2024,Express,COD,***
+538,ID0304,32,Pria,SPXID10399,Food,"Rp 946.000,-",12-03-2024,Reguler,Ngutang,*
+539,ID0663,39,Pria,SPXID10640,Food,"Rp 938.000,-",22-01-2024,Hemat,Ngutang,*****
+540,ID0201,30,Wanita,SPXID18553,Fashion,"Rp 360.000,-",16-02-2023,Hemat,Ngutang,**
+541,ID0592,39,Pria,SPXID44404,Sport,"Rp 871.000,-",16-04-2025,Next Day,COD,*****
+542,ID0394,34,Pria,SPXID49777,Fashion,"Rp 653.000,-",28-04-2023,Hemat,Transfer,***
+543,ID0939,28,Pria,SPXID01475,Electronics,"Rp 578.000,-",05-08-2024,Hemat,Ngutang,****
+544,ID0997,53,Wanita,SPXID02866,Food,"Rp 645.000,-",21-09-2023,Next Day,Transfer,*****
+545,ID0301,49,Pria,SPXID01159,Home,"Rp 239.000,-",04-09-2024,Hemat,Transfer,****
+546,ID0336,21,Pria,SPXID44071,Fashion,"Rp 685.000,-",25-05-2023,Hemat,COD,****
+547,ID0303,48,Pria,SPXID40211,Home,"Rp 386.000,-",15-11-2024,Express,Cash,*
+548,ID0359,41,Pria,SPXID21981,Home,"Rp 740.000,-",17-07-2023,Express,COD,*****
+549,ID0099,55,Pria,SPXID33265,Food,"Rp 31.000,-",26-01-2025,Next Day,Cash,*****
+550,ID0963,55,Pria,SPXID40003,Sport,"Rp 266.000,-",05-04-2025,Reguler,Transfer,**
+551,ID0455,51,Wanita,SPXID25377,Food,"Rp 371.000,-",15-02-2024,Express,COD,*
+552,ID0863,56,Wanita,SPXID25267,Home,"Rp 713.000,-",20-06-2024,Hemat,Ngutang,**
+553,ID0621,22,Pria,SPXID04738,Fashion,"Rp 38.000,-",19-07-2024,Express,Transfer,***
+554,ID0331,51,Pria,SPXID34133,Food,"Rp 556.000,-",18-08-2025,Reguler,Cash,*
+555,ID0341,47,Pria,SPXID46681,Home,"Rp 533.000,-",07-06-2025,Reguler,Transfer,*
+556,ID0377,33,Wanita,SPXID35675,Food,"Rp 742.000,-",17-05-2025,Next Day,Cash,**
+557,ID0554,26,Wanita,SPXID47135,Fashion,"Rp 865.000,-",26-05-2024,Express,Ngutang,****
+558,ID0695,38,Pria,SPXID03163,Home,"Rp 381.000,-",17-04-2023,Hemat,Cash,*****
+559,ID0405,39,Wanita,SPXID20343,Home,"Rp 768.000,-",11-04-2025,Hemat,Ngutang,****
+560,ID0361,41,Pria,SPXID31065,Electronics,"Rp 111.000,-",16-06-2025,Hemat,Ngutang,*****
+561,ID0954,48,Wanita,SPXID47834,Food,"Rp 897.000,-",16-04-2023,Hemat,Cash,****
+562,ID0485,43,Pria,SPXID26365,Fashion,"Rp 184.000,-",05-03-2023,Reguler,Cash,***
+563,ID0342,58,Wanita,SPXID11463,Home,"Rp 299.000,-",26-02-2023,Next Day,Transfer,****
+564,ID0825,50,Pria,SPXID23657,Sport,"Rp 209.000,-",23-02-2025,Express,Transfer,**
+565,ID0013,56,Pria,SPXID45002,Food,"Rp 710.000,-",14-03-2025,Hemat,COD,***
+566,ID0288,36,Pria,SPXID50139,Sport,"Rp 362.000,-",14-05-2025,Next Day,Ngutang,**
+567,ID0868,37,Pria,SPXID05878,Electronics,"Rp 485.000,-",06-04-2025,Next Day,Cash,**
+568,ID0439,32,Wanita,SPXID46995,Sport,"Rp 825.000,-",19-01-2024,Next Day,Cash,****
+569,ID0674,54,Wanita,SPXID40313,Fashion,"Rp 412.000,-",12-01-2025,Next Day,Ngutang,**
+570,ID0590,39,Wanita,SPXID19276,Sport,"Rp 683.000,-",15-05-2024,Next Day,COD,*
+571,ID0741,42,Pria,SPXID08468,Sport,"Rp 380.000,-",20-04-2023,Reguler,Transfer,*****
+572,ID0433,41,Pria,SPXID41326,Fashion,"Rp 611.000,-",01-08-2025,Express,COD,*
+573,ID0180,53,Wanita,SPXID26328,Home,"Rp 483.000,-",13-01-2024,Hemat,Transfer,***
+574,ID0357,52,Wanita,SPXID13329,Home,"Rp 532.000,-",08-09-2023,Hemat,COD,*****
+575,ID0867,46,Wanita,SPXID16312,Home,"Rp 212.000,-",06-10-2023,Hemat,Transfer,*
+576,ID0367,36,Pria,SPXID28173,Sport,"Rp 383.000,-",14-02-2025,Reguler,COD,****
+577,ID0124,59,Pria,SPXID07396,Food,"Rp 127.000,-",09-08-2024,Hemat,Cash,*
+578,ID0415,36,Pria,SPXID19641,Sport,"Rp 756.000,-",13-03-2025,Express,Ngutang,***
+579,ID0493,52,Pria,SPXID24901,Home,"Rp 474.000,-",10-09-2025,Next Day,Cash,***
+580,ID0278,29,Wanita,SPXID30088,Electronics,"Rp 270.000,-",28-07-2025,Hemat,Transfer,**
+581,ID0920,52,Pria,SPXID13516,Sport,"Rp 116.000,-",28-02-2025,Next Day,Cash,***
+582,ID0324,55,Wanita,SPXID19881,Fashion,"Rp 859.000,-",30-10-2025,Reguler,Ngutang,*
+583,ID0128,31,Pria,SPXID23252,Home,"Rp 439.000,-",30-03-2025,Express,COD,*
+584,ID0184,41,Pria,SPXID32037,Electronics,"Rp 18.000,-",08-10-2025,Express,Cash,*
+585,ID0343,44,Pria,SPXID06473,Food,"Rp 558.000,-",27-10-2023,Next Day,Transfer,**
+586,ID0703,36,Pria,SPXID37979,Sport,"Rp 817.000,-",17-11-2024,Reguler,Transfer,***
+587,ID0119,46,Pria,SPXID44947,Fashion,"Rp 809.000,-",18-04-2023,Express,Cash,*
+588,ID0910,18,Pria,SPXID35923,Sport,"Rp 39.000,-",02-09-2025,Reguler,Transfer,***
+589,ID0433,60,Wanita,SPXID03083,Food,"Rp 103.000,-",27-02-2024,Next Day,Transfer,*
+590,ID0567,43,Wanita,SPXID21583,Food,"Rp 488.000,-",02-09-2024,Hemat,COD,*****
+591,ID0200,29,Wanita,SPXID26905,Fashion,"Rp 132.000,-",01-06-2023,Hemat,Transfer,*****
+592,ID0089,58,Pria,SPXID29503,Sport,"Rp 180.000,-",04-10-2023,Hemat,Ngutang,*****
+593,ID0330,56,Wanita,SPXID43933,Sport,"Rp 745.000,-",01-10-2024,Express,Ngutang,*
+594,ID0448,52,Pria,SPXID33654,Home,"Rp 388.000,-",15-06-2023,Express,Ngutang,***
+595,ID0306,20,Wanita,SPXID09619,Home,"Rp 411.000,-",23-11-2024,Hemat,Transfer,****
+596,ID0771,59,Pria,SPXID09073,Sport,"Rp 768.000,-",25-01-2023,Reguler,COD,***
+597,ID0177,56,Wanita,SPXID31640,Home,"Rp 329.000,-",13-05-2023,Hemat,Ngutang,****
+598,ID0005,34,Pria,SPXID36666,Fashion,"Rp 453.000,-",09-06-2025,Express,COD,*****
+599,ID0587,18,Pria,SPXID24557,Home,"Rp 294.000,-",15-08-2023,Reguler,COD,***
+600,ID0796,58,Pria,SPXID34852,Sport,"Rp 912.000,-",27-09-2024,Express,COD,****
+601,ID0184,21,Pria,SPXID34957,Sport,"Rp 154.000,-",19-01-2025,Next Day,COD,*
+602,ID0607,58,Pria,SPXID37805,Electronics,"Rp 426.000,-",29-04-2023,Reguler,Ngutang,*
+603,ID0400,23,Wanita,SPXID14641,Electronics,"Rp 553.000,-",15-02-2023,Reguler,Ngutang,****
+604,ID0139,19,Pria,SPXID23404,Home,"Rp 312.000,-",01-06-2023,Express,Transfer,***
+605,ID0011,58,Pria,SPXID41491,Fashion,"Rp 642.000,-",18-02-2024,Next Day,COD,*
+606,ID0278,28,Wanita,SPXID01420,Fashion,"Rp 71.000,-",08-08-2023,Hemat,Ngutang,*
+607,ID0975,36,Pria,SPXID23138,Food,"Rp 459.000,-",10-02-2025,Next Day,Transfer,*
+608,ID0224,43,Pria,SPXID19492,Sport,"Rp 92.000,-",09-11-2023,Hemat,Ngutang,****
+609,ID0879,41,Wanita,SPXID48527,Sport,"Rp 145.000,-",01-11-2024,Reguler,Cash,**
+610,ID0709,35,Wanita,SPXID14661,Sport,"Rp 941.000,-",13-11-2024,Next Day,Transfer,*****
+611,ID0467,53,Pria,SPXID05118,Fashion,"Rp 858.000,-",14-07-2025,Next Day,COD,***
+612,ID0031,42,Wanita,SPXID45572,Fashion,"Rp 424.000,-",01-04-2025,Reguler,Cash,****
+613,ID0751,49,Pria,SPXID35325,Home,"Rp 642.000,-",14-07-2023,Express,Ngutang,****
+614,ID0367,19,Pria,SPXID37093,Electronics,"Rp 624.000,-",09-02-2025,Express,Cash,***
+615,ID0024,35,Wanita,SPXID19847,Sport,"Rp 606.000,-",05-02-2024,Reguler,Cash,****
+616,ID0883,23,Wanita,SPXID03968,Electronics,"Rp 611.000,-",21-03-2025,Express,Cash,*
+617,ID0133,19,Wanita,SPXID47400,Electronics,"Rp 545.000,-",10-11-2024,Express,Cash,*
+618,ID0487,58,Pria,SPXID42300,Electronics,"Rp 357.000,-",23-08-2025,Express,Cash,***
+619,ID0550,24,Pria,SPXID45485,Food,"Rp 262.000,-",04-07-2024,Next Day,COD,*
+620,ID0838,35,Wanita,SPXID40922,Food,"Rp 781.000,-",21-03-2025,Next Day,COD,***
+621,ID0045,33,Wanita,SPXID34373,Fashion,"Rp 712.000,-",18-08-2025,Next Day,Transfer,**
+622,ID0708,60,Wanita,SPXID01987,Home,"Rp 375.000,-",24-01-2023,Next Day,Transfer,***
+623,ID0416,23,Pria,SPXID24736,Home,"Rp 927.000,-",07-07-2024,Hemat,COD,****
+624,ID0377,18,Pria,SPXID30105,Food,"Rp 488.000,-",18-07-2024,Next Day,Ngutang,***
+625,ID0298,35,Wanita,SPXID46358,Electronics,"Rp 292.000,-",14-02-2025,Reguler,COD,**
+626,ID0832,30,Pria,SPXID03768,Sport,"Rp 984.000,-",17-11-2023,Reguler,Cash,*****
+627,ID0157,19,Wanita,SPXID22143,Sport,"Rp 588.000,-",25-01-2024,Reguler,COD,****
+628,ID0149,27,Wanita,SPXID21360,Fashion,"Rp 29.000,-",02-04-2023,Express,COD,*****
+629,ID0382,22,Pria,SPXID34878,Food,"Rp 421.000,-",23-02-2025,Hemat,Ngutang,****
+630,ID0179,34,Pria,SPXID18114,Electronics,"Rp 971.000,-",12-02-2024,Hemat,Transfer,*****
+631,ID0186,44,Pria,SPXID30071,Electronics,"Rp 962.000,-",15-08-2025,Hemat,Transfer,*****
+632,ID0419,52,Wanita,SPXID39634,Sport,"Rp 950.000,-",12-09-2024,Hemat,Ngutang,*
+633,ID0950,46,Wanita,SPXID22716,Home,"Rp 225.000,-",24-05-2024,Express,Ngutang,****
+634,ID0614,29,Pria,SPXID42233,Food,"Rp 501.000,-",30-10-2024,Hemat,Ngutang,*****
+635,ID0009,37,Pria,SPXID11429,Home,"Rp 631.000,-",30-06-2023,Express,COD,*****
+636,ID0432,31,Pria,SPXID14012,Food,"Rp 720.000,-",01-08-2023,Reguler,Ngutang,****
+637,ID0375,39,Pria,SPXID47119,Home,"Rp 306.000,-",30-04-2023,Express,Ngutang,***
+638,ID0030,19,Pria,SPXID41847,Sport,"Rp 852.000,-",11-06-2023,Express,Cash,*
+639,ID0748,55,Pria,SPXID39589,Fashion,"Rp 834.000,-",06-10-2024,Express,Transfer,***
+640,ID0672,21,Wanita,SPXID22308,Fashion,"Rp 621.000,-",01-10-2023,Hemat,COD,****
+641,ID0570,39,Pria,SPXID08294,Food,"Rp 167.000,-",30-01-2024,Reguler,Transfer,**
+642,ID0624,29,Pria,SPXID11070,Food,"Rp 659.000,-",27-11-2025,Hemat,Cash,*****
+643,ID0466,22,Wanita,SPXID07346,Electronics,"Rp 676.000,-",18-02-2025,Express,Cash,*****
+644,ID0253,37,Pria,SPXID00699,Fashion,"Rp 254.000,-",27-11-2024,Reguler,COD,*****
+645,ID0856,40,Wanita,SPXID39843,Electronics,"Rp 956.000,-",07-06-2024,Reguler,Transfer,**
+646,ID0795,29,Wanita,SPXID39956,Electronics,"Rp 693.000,-",19-02-2023,Reguler,COD,**
+647,ID0837,25,Pria,SPXID27789,Home,"Rp 674.000,-",22-05-2023,Reguler,COD,*
+648,ID0487,38,Pria,SPXID32539,Electronics,"Rp 748.000,-",18-04-2024,Reguler,Transfer,*
+649,ID0518,57,Wanita,SPXID08919,Electronics,"Rp 897.000,-",01-11-2023,Hemat,COD,*
+650,ID0071,33,Pria,SPXID13349,Sport,"Rp 794.000,-",18-05-2025,Hemat,Ngutang,*
+651,ID0706,42,Pria,SPXID14478,Electronics,"Rp 223.000,-",09-01-2025,Next Day,Ngutang,***
+652,ID0961,42,Wanita,SPXID24123,Fashion,"Rp 545.000,-",28-09-2023,Express,COD,****
+653,ID0799,32,Pria,SPXID09899,Food,"Rp 418.000,-",30-10-2023,Reguler,Ngutang,*****
+654,ID0922,60,Wanita,SPXID02164,Home,"Rp 596.000,-",14-05-2023,Next Day,Ngutang,***
+655,ID0405,32,Pria,SPXID09880,Sport,"Rp 620.000,-",22-10-2024,Hemat,COD,***
+656,ID0407,36,Wanita,SPXID21852,Food,"Rp 230.000,-",21-08-2025,Express,Transfer,*****
+657,ID0089,57,Wanita,SPXID15512,Home,"Rp 223.000,-",03-09-2025,Next Day,Cash,***
+658,ID0065,41,Pria,SPXID22188,Food,"Rp 539.000,-",23-07-2024,Next Day,COD,*
+659,ID0707,48,Wanita,SPXID21925,Sport,"Rp 828.000,-",27-09-2024,Express,Ngutang,*
+660,ID0109,22,Wanita,SPXID43759,Sport,"Rp 847.000,-",20-08-2023,Next Day,Cash,****
+661,ID0054,42,Wanita,SPXID38059,Fashion,"Rp 909.000,-",26-05-2024,Hemat,Cash,*
+662,ID0760,54,Wanita,SPXID12539,Home,"Rp 129.000,-",10-01-2024,Express,Cash,*
+663,ID0040,39,Wanita,SPXID09057,Electronics,"Rp 854.000,-",02-08-2024,Next Day,Transfer,*
+664,ID0069,43,Wanita,SPXID47206,Food,"Rp 29.000,-",11-03-2024,Hemat,Cash,*****
+665,ID0230,41,Wanita,SPXID12833,Home,"Rp 170.000,-",03-07-2023,Express,Transfer,*
+666,ID0018,27,Pria,SPXID38572,Fashion,"Rp 966.000,-",21-05-2023,Express,Transfer,*****
+667,ID0872,20,Pria,SPXID23193,Fashion,"Rp 722.000,-",04-02-2025,Next Day,Cash,***
+668,ID0060,52,Pria,SPXID46778,Home,"Rp 27.000,-",25-04-2025,Express,Transfer,*****
+669,ID0809,52,Wanita,SPXID48244,Food,"Rp 42.000,-",15-08-2023,Express,Cash,*****
+670,ID0417,56,Wanita,SPXID38890,Home,"Rp 13.000,-",28-11-2024,Reguler,Cash,*
+671,ID0321,45,Wanita,SPXID49718,Electronics,"Rp 124.000,-",21-07-2025,Hemat,COD,****
+672,ID0350,27,Wanita,SPXID02356,Home,"Rp 846.000,-",20-03-2023,Next Day,Ngutang,*
+673,ID0829,18,Pria,SPXID47812,Sport,"Rp 463.000,-",09-06-2024,Next Day,Transfer,**
+674,ID0383,58,Wanita,SPXID17592,Electronics,"Rp 28.000,-",01-05-2024,Next Day,COD,*****
+675,ID0579,28,Wanita,SPXID32728,Food,"Rp 252.000,-",08-05-2023,Hemat,Transfer,*****
+676,ID0977,32,Pria,SPXID14120,Fashion,"Rp 707.000,-",26-09-2023,Express,Ngutang,****
+677,ID0605,53,Wanita,SPXID06985,Food,"Rp 500.000,-",22-06-2025,Next Day,Ngutang,*****
+678,ID0520,40,Wanita,SPXID06378,Home,"Rp 853.000,-",20-06-2024,Next Day,COD,**
+679,ID0749,47,Pria,SPXID11879,Electronics,"Rp 280.000,-",30-05-2024,Reguler,Ngutang,*****
+680,ID0317,22,Pria,SPXID01292,Electronics,"Rp 976.000,-",13-07-2024,Express,Cash,*
+681,ID0550,46,Pria,SPXID25834,Electronics,"Rp 587.000,-",26-08-2024,Express,Ngutang,*****
+682,ID0191,25,Wanita,SPXID22612,Home,"Rp 706.000,-",22-09-2025,Reguler,Cash,****
+683,ID0703,34,Wanita,SPXID32088,Sport,"Rp 320.000,-",05-01-2025,Hemat,COD,*****
+684,ID0615,59,Wanita,SPXID16072,Fashion,"Rp 401.000,-",18-01-2023,Next Day,COD,*****
+685,ID0423,39,Pria,SPXID37697,Home,"Rp 671.000,-",02-11-2024,Express,COD,***
+686,ID0777,39,Pria,SPXID46046,Food,"Rp 620.000,-",14-01-2023,Next Day,Ngutang,*****
+687,ID0796,31,Wanita,SPXID50105,Fashion,"Rp 905.000,-",27-10-2025,Reguler,Transfer,*****
+688,ID0143,43,Wanita,SPXID14074,Food,"Rp 453.000,-",13-06-2025,Express,Transfer,**
+689,ID0101,45,Wanita,SPXID19492,Home,"Rp 308.000,-",14-05-2023,Next Day,Ngutang,*
+690,ID0589,46,Wanita,SPXID45707,Home,"Rp 935.000,-",01-11-2025,Next Day,Ngutang,**
+691,ID0108,60,Wanita,SPXID36760,Electronics,"Rp 992.000,-",29-07-2023,Next Day,COD,***
+692,ID0462,60,Pria,SPXID33536,Electronics,"Rp 484.000,-",09-04-2024,Next Day,Ngutang,***
+693,ID0198,51,Pria,SPXID45370,Electronics,"Rp 490.000,-",08-02-2023,Next Day,Transfer,***
+694,ID0468,20,Pria,SPXID15235,Sport,"Rp 949.000,-",28-03-2023,Next Day,Cash,**
+695,ID0574,44,Wanita,SPXID28285,Electronics,"Rp 31.000,-",10-06-2025,Hemat,COD,*****
+696,ID0527,22,Pria,SPXID32200,Sport,"Rp 283.000,-",28-08-2023,Hemat,Transfer,*****
+697,ID0865,22,Pria,SPXID30921,Food,"Rp 636.000,-",06-08-2023,Next Day,Ngutang,***
+698,ID0361,25,Wanita,SPXID39747,Home,"Rp 708.000,-",24-01-2024,Hemat,Ngutang,***
+699,ID0246,29,Wanita,SPXID43938,Fashion,"Rp 948.000,-",13-07-2025,Hemat,Transfer,*****
+700,ID0762,50,Wanita,SPXID22132,Food,"Rp 939.000,-",28-02-2024,Express,Cash,***
+701,ID0506,19,Pria,SPXID02185,Food,"Rp 269.000,-",01-11-2025,Express,COD,**
+702,ID0222,53,Wanita,SPXID07154,Fashion,"Rp 911.000,-",22-04-2024,Next Day,Cash,**
+703,ID0784,58,Wanita,SPXID36499,Food,"Rp 482.000,-",18-03-2024,Next Day,COD,****
+704,ID0367,32,Wanita,SPXID33728,Home,"Rp 205.000,-",10-06-2023,Next Day,Transfer,****
+705,ID0786,58,Wanita,SPXID08442,Home,"Rp 479.000,-",03-03-2025,Express,Cash,*****
+706,ID0044,45,Pria,SPXID36136,Sport,"Rp 647.000,-",30-09-2024,Express,Transfer,**
+707,ID0235,37,Wanita,SPXID09939,Sport,"Rp 748.000,-",09-06-2023,Hemat,Ngutang,**
+708,ID0928,19,Pria,SPXID24975,Fashion,"Rp 544.000,-",08-11-2024,Hemat,Ngutang,**
+709,ID0810,41,Wanita,SPXID34444,Food,"Rp 652.000,-",25-01-2024,Hemat,Transfer,*****
+710,ID0198,43,Wanita,SPXID41197,Fashion,"Rp 461.000,-",29-07-2025,Hemat,Cash,***
+711,ID0415,24,Wanita,SPXID39480,Fashion,"Rp 665.000,-",12-05-2024,Hemat,Cash,***
+712,ID0760,32,Wanita,SPXID14560,Sport,"Rp 144.000,-",13-08-2023,Express,COD,***
+713,ID0745,47,Wanita,SPXID17926,Fashion,"Rp 612.000,-",11-06-2024,Reguler,COD,*
+714,ID0296,57,Pria,SPXID46925,Electronics,"Rp 166.000,-",01-05-2025,Next Day,Cash,****
+715,ID0580,22,Wanita,SPXID33971,Food,"Rp 730.000,-",09-09-2023,Next Day,COD,***
+716,ID0603,44,Pria,SPXID24573,Sport,"Rp 65.000,-",13-08-2025,Hemat,COD,****
+717,ID0095,24,Pria,SPXID07402,Sport,"Rp 10.000,-",06-05-2023,Hemat,COD,****
+718,ID0971,41,Pria,SPXID42901,Fashion,"Rp 857.000,-",11-08-2025,Express,COD,*****
+719,ID0579,29,Wanita,SPXID20629,Food,"Rp 352.000,-",27-08-2023,Hemat,Transfer,**
+720,ID0434,38,Wanita,SPXID21090,Electronics,"Rp 507.000,-",28-02-2023,Reguler,Ngutang,**
+721,ID0226,40,Wanita,SPXID30696,Electronics,"Rp 451.000,-",12-11-2023,Reguler,Cash,***
+722,ID0480,33,Wanita,SPXID29740,Sport,"Rp 92.000,-",07-06-2023,Express,Cash,****
+723,ID0797,56,Pria,SPXID38194,Fashion,"Rp 44.000,-",16-09-2023,Hemat,COD,***
+724,ID0533,44,Pria,SPXID23567,Electronics,"Rp 337.000,-",15-09-2025,Next Day,COD,*
+725,ID0177,47,Pria,SPXID35174,Sport,"Rp 511.000,-",13-03-2025,Express,Transfer,**
+726,ID0550,48,Wanita,SPXID39862,Fashion,"Rp 452.000,-",05-07-2025,Next Day,COD,**
+727,ID0943,20,Pria,SPXID31168,Food,"Rp 17.000,-",20-03-2023,Next Day,Ngutang,*
+728,ID0579,53,Wanita,SPXID33316,Electronics,"Rp 199.000,-",13-02-2023,Express,Transfer,*****
+729,ID0488,32,Wanita,SPXID23806,Food,"Rp 357.000,-",03-04-2023,Next Day,Transfer,*
+730,ID0319,43,Pria,SPXID32973,Electronics,"Rp 628.000,-",04-11-2024,Next Day,Ngutang,*
+731,ID0952,38,Pria,SPXID35134,Home,"Rp 766.000,-",27-06-2023,Hemat,COD,****
+732,ID0846,50,Pria,SPXID40002,Home,"Rp 549.000,-",17-01-2023,Next Day,Ngutang,****
+733,ID0568,37,Wanita,SPXID42540,Home,"Rp 736.000,-",26-07-2023,Express,COD,*****
+734,ID0837,48,Wanita,SPXID03659,Food,"Rp 206.000,-",06-08-2025,Reguler,Cash,*****
+735,ID0669,52,Pria,SPXID14080,Sport,"Rp 466.000,-",25-02-2024,Reguler,Cash,*****
+736,ID0678,44,Pria,SPXID14900,Fashion,"Rp 405.000,-",12-04-2023,Next Day,Cash,***
+737,ID0598,40,Pria,SPXID08786,Home,"Rp 830.000,-",30-08-2024,Hemat,Transfer,**
+738,ID0888,47,Pria,SPXID19841,Fashion,"Rp 651.000,-",19-05-2023,Hemat,Transfer,***
+739,ID0999,50,Pria,SPXID22951,Sport,"Rp 475.000,-",12-02-2023,Next Day,Ngutang,****
+740,ID0367,52,Wanita,SPXID32045,Electronics,"Rp 745.000,-",10-03-2024,Next Day,Cash,*
+741,ID0906,37,Pria,SPXID14512,Food,"Rp 441.000,-",20-08-2025,Express,Cash,****
+742,ID0682,33,Wanita,SPXID33193,Home,"Rp 590.000,-",02-08-2023,Next Day,COD,***
+743,ID0029,31,Pria,SPXID35510,Fashion,"Rp 668.000,-",28-09-2023,Reguler,Cash,****
+744,ID0159,20,Wanita,SPXID39516,Fashion,"Rp 12.000,-",27-01-2025,Next Day,COD,**
+745,ID0816,58,Wanita,SPXID17084,Electronics,"Rp 151.000,-",11-06-2024,Hemat,Ngutang,*****
+746,ID0482,43,Pria,SPXID43998,Sport,"Rp 454.000,-",22-08-2024,Next Day,COD,*
+747,ID0867,26,Wanita,SPXID47148,Sport,"Rp 490.000,-",04-10-2023,Express,Cash,**
+748,ID0466,30,Wanita,SPXID22599,Sport,"Rp 243.000,-",30-05-2025,Express,Transfer,****
+749,ID0703,44,Wanita,SPXID40741,Electronics,"Rp 787.000,-",02-06-2025,Hemat,Transfer,**
+750,ID0871,34,Wanita,SPXID25661,Electronics,"Rp 60.000,-",27-07-2023,Express,Cash,*****
+751,ID0039,40,Pria,SPXID12729,Home,"Rp 809.000,-",16-10-2023,Hemat,Ngutang,****
+752,ID0853,55,Pria,SPXID25558,Sport,"Rp 279.000,-",17-08-2025,Hemat,Cash,****
+753,ID0762,46,Wanita,SPXID17037,Fashion,"Rp 520.000,-",15-09-2024,Express,COD,****
+754,ID0611,59,Pria,SPXID04063,Electronics,"Rp 658.000,-",26-08-2025,Express,Ngutang,*
+755,ID0582,20,Pria,SPXID04103,Home,"Rp 481.000,-",19-06-2023,Next Day,COD,***
+756,ID0164,20,Pria,SPXID07064,Electronics,"Rp 399.000,-",27-10-2025,Next Day,Cash,****
+757,ID0785,45,Wanita,SPXID49161,Sport,"Rp 698.000,-",01-10-2023,Express,Cash,*
+758,ID0669,53,Pria,SPXID20717,Home,"Rp 441.000,-",14-03-2023,Next Day,Transfer,***
+759,ID0861,46,Wanita,SPXID23038,Electronics,"Rp 268.000,-",22-05-2024,Express,Transfer,***
+760,ID0528,18,Pria,SPXID36250,Fashion,"Rp 183.000,-",20-11-2025,Reguler,COD,*
+761,ID0278,52,Wanita,SPXID49965,Sport,"Rp 551.000,-",13-07-2025,Hemat,Ngutang,**
+762,ID0317,19,Wanita,SPXID34834,Sport,"Rp 710.000,-",06-03-2025,Reguler,Ngutang,*****
+763,ID0636,32,Pria,SPXID39384,Home,"Rp 79.000,-",15-04-2024,Express,Ngutang,*****
+764,ID0744,59,Wanita,SPXID44537,Electronics,"Rp 309.000,-",01-04-2024,Next Day,Ngutang,*
+765,ID0055,54,Pria,SPXID47505,Home,"Rp 546.000,-",14-07-2025,Reguler,COD,*
+766,ID0859,18,Wanita,SPXID48336,Home,"Rp 483.000,-",04-06-2023,Hemat,COD,***
+767,ID0442,33,Pria,SPXID36506,Home,"Rp 626.000,-",23-03-2024,Hemat,Transfer,**
+768,ID0712,42,Wanita,SPXID11004,Sport,"Rp 369.000,-",07-04-2025,Hemat,Cash,*****
+769,ID0567,57,Pria,SPXID37616,Fashion,"Rp 252.000,-",29-01-2023,Next Day,Ngutang,***
+770,ID0047,51,Wanita,SPXID49304,Electronics,"Rp 131.000,-",30-03-2024,Hemat,Transfer,****
+771,ID0079,57,Wanita,SPXID06806,Electronics,"Rp 842.000,-",24-04-2025,Hemat,COD,****
+772,ID0805,53,Pria,SPXID18922,Food,"Rp 327.000,-",19-01-2023,Reguler,Cash,****
+773,ID0311,31,Pria,SPXID46126,Sport,"Rp 279.000,-",22-04-2024,Hemat,Cash,****
+774,ID0606,34,Wanita,SPXID31670,Home,"Rp 44.000,-",02-10-2025,Next Day,Cash,****
+775,ID0659,20,Pria,SPXID25229,Food,"Rp 657.000,-",01-06-2024,Hemat,Ngutang,****
+776,ID0694,60,Wanita,SPXID44462,Sport,"Rp 673.000,-",08-01-2023,Hemat,Ngutang,***
+777,ID0454,42,Pria,SPXID28263,Home,"Rp 574.000,-",22-06-2025,Hemat,Ngutang,**
+778,ID0222,25,Pria,SPXID43082,Home,"Rp 334.000,-",19-11-2024,Reguler,Cash,*
+779,ID0569,20,Wanita,SPXID18125,Fashion,"Rp 419.000,-",16-07-2025,Next Day,Ngutang,*****
+780,ID0522,30,Pria,SPXID41743,Home,"Rp 287.000,-",01-02-2024,Next Day,COD,****
+781,ID0957,19,Wanita,SPXID35512,Fashion,"Rp 505.000,-",24-04-2023,Next Day,Ngutang,****
+782,ID0011,51,Pria,SPXID02146,Home,"Rp 121.000,-",26-08-2025,Reguler,Transfer,****
+783,ID0758,44,Wanita,SPXID41016,Fashion,"Rp 444.000,-",11-05-2024,Next Day,Ngutang,***
+784,ID0963,35,Pria,SPXID17941,Fashion,"Rp 24.000,-",11-06-2023,Next Day,Cash,*
+785,ID0442,53,Wanita,SPXID45651,Food,"Rp 158.000,-",22-03-2023,Hemat,COD,*****
+786,ID0156,21,Wanita,SPXID03029,Home,"Rp 79.000,-",28-09-2023,Next Day,Ngutang,**
+787,ID0980,37,Wanita,SPXID29675,Sport,"Rp 295.000,-",28-11-2024,Next Day,Cash,*
+788,ID0785,28,Wanita,SPXID46518,Fashion,"Rp 359.000,-",25-08-2025,Reguler,Ngutang,*****
+789,ID0629,22,Wanita,SPXID14740,Fashion,"Rp 226.000,-",25-07-2024,Reguler,Cash,*
+790,ID0019,54,Wanita,SPXID10256,Sport,"Rp 195.000,-",21-10-2024,Express,Transfer,**
+791,ID0271,36,Pria,SPXID35393,Home,"Rp 469.000,-",06-04-2025,Express,Ngutang,*****
+792,ID0321,35,Wanita,SPXID18885,Home,"Rp 110.000,-",15-05-2024,Reguler,Ngutang,***
+793,ID0491,53,Wanita,SPXID31428,Home,"Rp 354.000,-",03-03-2023,Hemat,Ngutang,*****
+794,ID0325,18,Pria,SPXID19107,Food,"Rp 390.000,-",10-02-2023,Next Day,Ngutang,***
+795,ID0935,60,Pria,SPXID10078,Sport,"Rp 496.000,-",21-03-2023,Next Day,Cash,****
+796,ID0580,42,Wanita,SPXID06269,Fashion,"Rp 368.000,-",03-05-2025,Express,COD,***
+797,ID0518,34,Pria,SPXID49861,Food,"Rp 770.000,-",05-03-2024,Hemat,Ngutang,****
+798,ID0465,49,Wanita,SPXID06739,Electronics,"Rp 377.000,-",23-08-2025,Reguler,COD,*****
+799,ID0075,42,Pria,SPXID49458,Home,"Rp 534.000,-",14-08-2025,Next Day,Cash,****
+800,ID0342,57,Wanita,SPXID46689,Sport,"Rp 256.000,-",24-03-2024,Next Day,Ngutang,***
+801,ID0608,59,Wanita,SPXID07006,Food,"Rp 170.000,-",11-02-2024,Hemat,Ngutang,*
+802,ID0725,46,Pria,SPXID47698,Electronics,"Rp 811.000,-",21-05-2024,Next Day,Cash,**
+803,ID0311,43,Pria,SPXID05527,Home,"Rp 78.000,-",29-05-2023,Hemat,Transfer,*
+804,ID0302,41,Wanita,SPXID05224,Electronics,"Rp 776.000,-",13-02-2024,Hemat,Cash,**
+805,ID0673,52,Pria,SPXID07031,Home,"Rp 543.000,-",01-10-2024,Next Day,Cash,*****
+806,ID0713,33,Wanita,SPXID37638,Home,"Rp 672.000,-",01-11-2023,Reguler,Ngutang,**
+807,ID0880,60,Wanita,SPXID35691,Electronics,"Rp 218.000,-",23-03-2024,Next Day,Ngutang,****
+808,ID0361,30,Wanita,SPXID09304,Sport,"Rp 271.000,-",20-02-2023,Hemat,COD,****
+809,ID0761,41,Pria,SPXID02865,Sport,"Rp 970.000,-",28-09-2024,Hemat,Cash,*****
+810,ID0629,23,Pria,SPXID45930,Fashion,"Rp 117.000,-",09-09-2024,Next Day,Cash,***
+811,ID0101,29,Pria,SPXID09354,Fashion,"Rp 56.000,-",13-11-2025,Express,Ngutang,*
+812,ID0874,21,Wanita,SPXID21843,Electronics,"Rp 501.000,-",25-10-2024,Express,Ngutang,*
+813,ID0392,55,Pria,SPXID08870,Sport,"Rp 123.000,-",18-08-2025,Express,Transfer,***
+814,ID0207,32,Pria,SPXID12974,Home,"Rp 326.000,-",17-06-2023,Reguler,COD,**
+815,ID0294,40,Pria,SPXID37362,Food,"Rp 269.000,-",12-04-2024,Next Day,Cash,*****
+816,ID0765,23,Pria,SPXID33551,Food,"Rp 492.000,-",14-01-2025,Reguler,COD,*****
+817,ID0964,33,Pria,SPXID36364,Sport,"Rp 560.000,-",03-01-2023,Reguler,Transfer,*****
+818,ID0576,28,Wanita,SPXID10459,Sport,"Rp 372.000,-",05-04-2023,Hemat,Cash,****
+819,ID0047,36,Wanita,SPXID23052,Electronics,"Rp 632.000,-",30-02-2024,Reguler,Transfer,****
+820,ID0749,40,Pria,SPXID02026,Fashion,"Rp 740.000,-",22-04-2023,Express,Transfer,*****
+821,ID0788,18,Pria,SPXID23875,Home,"Rp 767.000,-",03-06-2025,Express,Cash,**
+822,ID0351,43,Pria,SPXID06654,Electronics,"Rp 919.000,-",04-05-2025,Next Day,Ngutang,***
+823,ID0278,57,Pria,SPXID31712,Food,"Rp 974.000,-",05-01-2023,Reguler,COD,***
+824,ID0935,57,Pria,SPXID06621,Fashion,"Rp 682.000,-",25-05-2024,Reguler,Transfer,*****
+825,ID0043,60,Pria,SPXID16831,Food,"Rp 312.000,-",23-04-2025,Next Day,Cash,*
+826,ID0840,51,Wanita,SPXID10740,Electronics,"Rp 406.000,-",03-05-2025,Reguler,Cash,*****
+827,ID0383,39,Wanita,SPXID35130,Food,"Rp 970.000,-",15-07-2024,Hemat,Transfer,*
+828,ID0959,38,Wanita,SPXID15956,Fashion,"Rp 434.000,-",12-04-2024,Hemat,Ngutang,****
+829,ID0753,33,Pria,SPXID38599,Fashion,"Rp 58.000,-",12-11-2023,Reguler,Ngutang,****
+830,ID0406,52,Pria,SPXID30408,Sport,"Rp 264.000,-",13-01-2025,Next Day,Ngutang,***
+831,ID0769,55,Wanita,SPXID49516,Home,"Rp 290.000,-",27-05-2023,Express,COD,***
+832,ID0988,34,Wanita,SPXID22682,Electronics,"Rp 864.000,-",15-06-2024,Hemat,COD,****
+833,ID0773,36,Pria,SPXID50224,Food,"Rp 491.000,-",17-02-2023,Hemat,Cash,***
+834,ID0872,35,Pria,SPXID34356,Food,"Rp 140.000,-",27-10-2023,Reguler,COD,**
+835,ID0810,20,Pria,SPXID25467,Food,"Rp 634.000,-",18-10-2025,Reguler,Cash,*
+836,ID0045,57,Wanita,SPXID28101,Sport,"Rp 273.000,-",09-02-2024,Express,Ngutang,***
+837,ID0117,57,Pria,SPXID48127,Food,"Rp 777.000,-",04-11-2023,Reguler,COD,**
+838,ID0454,44,Pria,SPXID17572,Sport,"Rp 580.000,-",24-04-2025,Hemat,Cash,***
+839,ID0849,57,Pria,SPXID20260,Sport,"Rp 723.000,-",09-06-2023,Next Day,Ngutang,***
+840,ID0690,57,Pria,SPXID23741,Home,"Rp 219.000,-",25-01-2024,Hemat,Transfer,*
+841,ID0226,21,Wanita,SPXID21559,Food,"Rp 578.000,-",27-07-2025,Next Day,COD,*
+842,ID0672,25,Wanita,SPXID46976,Food,"Rp 461.000,-",18-02-2024,Express,Transfer,**
+843,ID0258,29,Pria,SPXID14570,Food,"Rp 482.000,-",04-04-2024,Express,Ngutang,*
+844,ID0973,39,Wanita,SPXID11314,Electronics,"Rp 539.000,-",09-07-2025,Reguler,Ngutang,***
+845,ID0581,44,Wanita,SPXID43637,Fashion,"Rp 661.000,-",13-04-2023,Next Day,Cash,*****
+846,ID0349,30,Wanita,SPXID26967,Electronics,"Rp 424.000,-",23-03-2024,Reguler,Cash,****
+847,ID0790,39,Pria,SPXID06450,Sport,"Rp 947.000,-",05-05-2025,Reguler,Transfer,*
+848,ID0462,58,Pria,SPXID49401,Food,"Rp 171.000,-",07-09-2023,Express,Cash,*
+849,ID0581,57,Pria,SPXID43632,Fashion,"Rp 462.000,-",23-10-2023,Reguler,COD,*****
+850,ID0569,23,Pria,SPXID28572,Sport,"Rp 77.000,-",27-01-2024,Hemat,Transfer,*
+851,ID0270,29,Pria,SPXID26146,Home,"Rp 258.000,-",25-01-2024,Reguler,Transfer,*****
+852,ID0309,46,Wanita,SPXID03862,Electronics,"Rp 316.000,-",14-07-2024,Next Day,COD,***
+853,ID0266,24,Pria,SPXID14367,Sport,"Rp 578.000,-",07-10-2023,Next Day,Transfer,***
+854,ID0002,33,Pria,SPXID05822,Home,"Rp 444.000,-",17-05-2025,Express,Transfer,*
+855,ID0487,31,Wanita,SPXID00943,Food,"Rp 706.000,-",26-02-2023,Express,Cash,***
+856,ID0957,44,Wanita,SPXID18817,Fashion,"Rp 911.000,-",26-11-2025,Express,Transfer,**
+857,ID1000,37,Pria,SPXID45564,Sport,"Rp 940.000,-",01-11-2024,Reguler,Transfer,*
+858,ID0269,20,Wanita,SPXID38321,Electronics,"Rp 821.000,-",27-04-2025,Express,Transfer,*****
+859,ID0027,40,Pria,SPXID00814,Sport,"Rp 326.000,-",10-04-2025,Hemat,COD,***
+860,ID0256,24,Pria,SPXID39032,Food,"Rp 925.000,-",02-08-2025,Next Day,Transfer,*
+861,ID0133,42,Pria,SPXID19183,Home,"Rp 153.000,-",19-07-2023,Hemat,Transfer,**
+862,ID0942,29,Pria,SPXID22161,Sport,"Rp 672.000,-",16-07-2023,Next Day,COD,**
+863,ID0778,56,Wanita,SPXID27525,Sport,"Rp 994.000,-",04-11-2025,Reguler,Cash,*****
+864,ID0579,49,Pria,SPXID44036,Electronics,"Rp 38.000,-",27-02-2023,Express,Ngutang,**
+865,ID0561,35,Wanita,SPXID34248,Home,"Rp 870.000,-",05-04-2024,Reguler,Transfer,*****
+866,ID0042,18,Wanita,SPXID31105,Fashion,"Rp 707.000,-",24-08-2025,Reguler,Transfer,*
+867,ID0631,57,Pria,SPXID12347,Home,"Rp 792.000,-",19-03-2023,Express,Transfer,*
+868,ID0073,59,Pria,SPXID19517,Home,"Rp 280.000,-",06-09-2023,Express,Cash,**
+869,ID0804,32,Wanita,SPXID15257,Fashion,"Rp 428.000,-",28-09-2024,Hemat,Transfer,***
+870,ID0137,59,Wanita,SPXID32066,Food,"Rp 401.000,-",04-11-2023,Reguler,Ngutang,*****
+871,ID0015,37,Pria,SPXID10331,Sport,"Rp 900.000,-",08-06-2024,Next Day,Transfer,*****
+872,ID0768,24,Pria,SPXID05467,Sport,"Rp 234.000,-",25-09-2024,Next Day,COD,***
+873,ID0431,49,Pria,SPXID16173,Home,"Rp 862.000,-",24-11-2025,Express,COD,***
+874,ID0420,33,Pria,SPXID21882,Fashion,"Rp 919.000,-",21-07-2025,Hemat,Ngutang,*****
+875,ID0663,42,Pria,SPXID06311,Sport,"Rp 565.000,-",21-04-2023,Next Day,Ngutang,****
+876,ID0974,21,Wanita,SPXID07037,Home,"Rp 521.000,-",29-10-2023,Reguler,Transfer,*****
+877,ID0068,33,Pria,SPXID33519,Sport,"Rp 348.000,-",13-01-2023,Hemat,COD,**
+878,ID0294,42,Pria,SPXID10858,Fashion,"Rp 214.000,-",26-06-2023,Express,Ngutang,***
+879,ID0664,59,Wanita,SPXID40239,Electronics,"Rp 226.000,-",03-04-2024,Express,Transfer,*****
+880,ID0457,40,Pria,SPXID03912,Food,"Rp 184.000,-",06-02-2025,Reguler,Ngutang,*
+881,ID0310,38,Wanita,SPXID42174,Home,"Rp 537.000,-",02-06-2023,Reguler,Ngutang,*****
+882,ID0971,22,Pria,SPXID15724,Sport,"Rp 175.000,-",15-05-2023,Next Day,Cash,***
+883,ID0912,31,Pria,SPXID48528,Sport,"Rp 606.000,-",30-05-2023,Express,Ngutang,****
+884,ID0265,38,Wanita,SPXID18976,Food,"Rp 366.000,-",05-04-2024,Reguler,Transfer,****
+885,ID0456,39,Pria,SPXID42616,Home,"Rp 117.000,-",09-07-2024,Express,Ngutang,*
+886,ID0668,31,Wanita,SPXID04114,Food,"Rp 185.000,-",28-01-2024,Express,COD,*****
+887,ID0313,44,Pria,SPXID38695,Sport,"Rp 56.000,-",11-01-2025,Express,Transfer,*
+888,ID0621,34,Pria,SPXID28982,Food,"Rp 775.000,-",20-10-2024,Next Day,Ngutang,****
+889,ID0631,39,Pria,SPXID48188,Fashion,"Rp 980.000,-",06-05-2024,Reguler,Cash,****
+890,ID0478,27,Wanita,SPXID30435,Electronics,"Rp 996.000,-",15-03-2024,Express,Cash,***
+891,ID0331,24,Wanita,SPXID09800,Fashion,"Rp 626.000,-",30-03-2024,Express,COD,*****
+892,ID0375,19,Wanita,SPXID29529,Fashion,"Rp 748.000,-",15-05-2023,Express,COD,**
+893,ID0638,43,Pria,SPXID26435,Food,"Rp 741.000,-",23-11-2024,Next Day,Cash,***
+894,ID0657,47,Pria,SPXID48927,Food,"Rp 779.000,-",18-03-2024,Next Day,Cash,****
+895,ID0987,23,Pria,SPXID23080,Home,"Rp 135.000,-",12-06-2025,Express,Cash,***
+896,ID0571,33,Wanita,SPXID43512,Home,"Rp 974.000,-",02-05-2023,Hemat,COD,***
+897,ID0262,51,Pria,SPXID10943,Sport,"Rp 673.000,-",27-02-2025,Hemat,Transfer,****
+898,ID0726,34,Wanita,SPXID26832,Home,"Rp 940.000,-",24-06-2024,Hemat,Transfer,**
+899,ID0382,48,Wanita,SPXID05132,Sport,"Rp 557.000,-",19-06-2024,Next Day,Cash,**
+900,ID0060,35,Wanita,SPXID23852,Fashion,"Rp 786.000,-",19-08-2025,Reguler,COD,**
+901,ID0973,20,Wanita,SPXID10855,Home,"Rp 199.000,-",10-11-2023,Express,Transfer,*****
+902,ID0099,18,Wanita,SPXID31685,Food,"Rp 298.000,-",21-05-2025,Hemat,Ngutang,***
+903,ID0838,47,Pria,SPXID40631,Electronics,"Rp 36.000,-",24-03-2025,Hemat,Transfer,**
+904,ID0289,42,Pria,SPXID40771,Home,"Rp 436.000,-",10-11-2023,Next Day,COD,*
+905,ID0962,53,Pria,SPXID27671,Electronics,"Rp 688.000,-",18-03-2024,Express,COD,*
+906,ID0393,28,Pria,SPXID11380,Sport,"Rp 526.000,-",10-02-2023,Reguler,Ngutang,**
+907,ID0256,40,Wanita,SPXID22264,Food,"Rp 48.000,-",01-05-2025,Reguler,COD,**
+908,ID0190,20,Wanita,SPXID17437,Electronics,"Rp 429.000,-",15-05-2023,Express,Cash,****
+909,ID0636,52,Pria,SPXID26740,Electronics,"Rp 961.000,-",14-03-2025,Express,Cash,***
+910,ID0843,33,Pria,SPXID27351,Home,"Rp 807.000,-",11-03-2024,Next Day,Ngutang,*
+911,ID0133,27,Wanita,SPXID19145,Electronics,"Rp 834.000,-",30-06-2024,Hemat,Ngutang,**
+912,ID0592,47,Wanita,SPXID10575,Sport,"Rp 411.000,-",22-08-2025,Express,Transfer,*****
+913,ID0997,34,Wanita,SPXID00758,Electronics,"Rp 491.000,-",28-03-2025,Next Day,Transfer,**
+914,ID0475,26,Wanita,SPXID19263,Electronics,"Rp 791.000,-",03-10-2025,Reguler,COD,**
+915,ID0484,20,Pria,SPXID16838,Home,"Rp 508.000,-",28-01-2025,Next Day,COD,**
+916,ID0473,32,Pria,SPXID18761,Food,"Rp 861.000,-",17-11-2025,Next Day,COD,*
+917,ID0358,35,Wanita,SPXID06738,Fashion,"Rp 93.000,-",07-06-2025,Express,Ngutang,*
+918,ID0134,28,Pria,SPXID24157,Home,"Rp 841.000,-",02-11-2025,Express,Transfer,***
+919,ID0752,37,Pria,SPXID47754,Food,"Rp 676.000,-",01-02-2024,Hemat,Cash,*
+920,ID0203,46,Wanita,SPXID48300,Electronics,"Rp 536.000,-",11-05-2025,Next Day,Cash,****
+921,ID0134,56,Pria,SPXID47329,Home,"Rp 871.000,-",28-09-2025,Reguler,Ngutang,**
+922,ID0135,34,Wanita,SPXID36401,Food,"Rp 140.000,-",05-11-2025,Reguler,Cash,*****
+923,ID0811,42,Wanita,SPXID27822,Sport,"Rp 365.000,-",29-06-2023,Hemat,Cash,****
+924,ID0982,32,Pria,SPXID03874,Food,"Rp 31.000,-",25-07-2023,Next Day,Ngutang,****
+925,ID0445,47,Pria,SPXID18303,Sport,"Rp 891.000,-",01-03-2023,Reguler,Ngutang,*
+926,ID0201,27,Pria,SPXID39016,Sport,"Rp 243.000,-",03-02-2024,Reguler,Transfer,****
+927,ID0410,39,Wanita,SPXID28647,Electronics,"Rp 571.000,-",21-05-2024,Reguler,Cash,*
+928,ID0762,47,Pria,SPXID37827,Fashion,"Rp 276.000,-",26-02-2024,Reguler,Transfer,**
+929,ID0755,54,Pria,SPXID39810,Sport,"Rp 520.000,-",12-11-2025,Hemat,Ngutang,*
+930,ID0689,53,Pria,SPXID44900,Sport,"Rp 785.000,-",12-01-2025,Reguler,COD,***
+931,ID0389,59,Pria,SPXID10769,Sport,"Rp 325.000,-",20-05-2023,Reguler,COD,**
+932,ID0680,39,Wanita,SPXID35287,Electronics,"Rp 803.000,-",24-03-2024,Reguler,Transfer,*****
+933,ID0764,56,Wanita,SPXID39728,Fashion,"Rp 448.000,-",23-01-2025,Express,COD,**
+934,ID0101,50,Pria,SPXID11709,Fashion,"Rp 954.000,-",26-03-2025,Hemat,Transfer,*****
+935,ID0093,37,Wanita,SPXID37866,Sport,"Rp 31.000,-",15-11-2024,Hemat,Cash,***
+936,ID0480,49,Pria,SPXID22932,Home,"Rp 329.000,-",13-09-2025,Hemat,COD,***
+937,ID0654,48,Pria,SPXID29482,Fashion,"Rp 158.000,-",10-03-2025,Reguler,Ngutang,*
+938,ID0512,35,Pria,SPXID28523,Food,"Rp 655.000,-",05-01-2024,Express,Cash,****
+939,ID0647,28,Pria,SPXID06394,Home,"Rp 146.000,-",26-05-2024,Reguler,Transfer,****
+940,ID0872,59,Pria,SPXID04351,Fashion,"Rp 391.000,-",18-06-2023,Reguler,COD,*
+941,ID0434,48,Wanita,SPXID32494,Fashion,"Rp 850.000,-",03-01-2024,Next Day,Ngutang,**
+942,ID0340,33,Wanita,SPXID46707,Food,"Rp 161.000,-",03-08-2024,Express,Ngutang,*****
+943,ID0813,58,Wanita,SPXID33264,Home,"Rp 437.000,-",25-03-2025,Hemat,Cash,*
+944,ID0840,57,Pria,SPXID38053,Food,"Rp 190.000,-",17-07-2023,Express,Transfer,*****
+945,ID0208,46,Pria,SPXID21689,Food,"Rp 810.000,-",06-10-2024,Hemat,Ngutang,*****
+946,ID0127,20,Wanita,SPXID40359,Electronics,"Rp 543.000,-",16-11-2023,Reguler,Ngutang,**
+947,ID0749,55,Wanita,SPXID44443,Electronics,"Rp 527.000,-",18-04-2023,Express,Transfer,*
+948,ID0081,27,Wanita,SPXID30508,Food,"Rp 866.000,-",17-01-2024,Reguler,Cash,*
+949,ID0904,19,Pria,SPXID15784,Electronics,"Rp 37.000,-",30-05-2024,Reguler,Ngutang,****
+950,ID0841,22,Pria,SPXID27322,Food,"Rp 752.000,-",10-06-2025,Express,Cash,***
+951,ID0774,32,Wanita,SPXID14998,Electronics,"Rp 240.000,-",09-02-2025,Hemat,Cash,****
+952,ID0545,54,Pria,SPXID07962,Home,"Rp 840.000,-",28-04-2024,Hemat,Transfer,****
+953,ID0882,44,Pria,SPXID31290,Food,"Rp 741.000,-",24-05-2025,Express,COD,****
+954,ID0479,20,Pria,SPXID39154,Fashion,"Rp 780.000,-",06-05-2024,Next Day,Cash,**
+955,ID0700,59,Pria,SPXID10435,Food,"Rp 101.000,-",13-10-2024,Next Day,COD,****
+956,ID0127,43,Pria,SPXID36004,Fashion,"Rp 938.000,-",04-02-2023,Express,Transfer,*****
+957,ID0834,49,Wanita,SPXID09234,Sport,"Rp 592.000,-",24-04-2024,Express,Cash,**
+958,ID0907,54,Wanita,SPXID19080,Home,"Rp 150.000,-",24-01-2025,Next Day,COD,*****
+959,ID0007,29,Pria,SPXID06081,Electronics,"Rp 682.000,-",16-02-2023,Hemat,Cash,*
+960,ID0214,57,Wanita,SPXID11615,Fashion,"Rp 720.000,-",03-10-2024,Reguler,Transfer,****
+961,ID0615,30,Pria,SPXID28692,Home,"Rp 930.000,-",03-04-2023,Hemat,Ngutang,*****
+962,ID0913,53,Wanita,SPXID50267,Food,"Rp 480.000,-",04-06-2023,Hemat,Ngutang,**
+963,ID0933,51,Wanita,SPXID33830,Sport,"Rp 419.000,-",01-01-2025,Hemat,Cash,*****
+964,ID0870,37,Wanita,SPXID33060,Food,"Rp 350.000,-",07-07-2024,Reguler,Cash,****
+965,ID0984,38,Pria,SPXID32531,Electronics,"Rp 517.000,-",15-04-2024,Reguler,Cash,*****
+966,ID0471,57,Pria,SPXID20087,Food,"Rp 819.000,-",26-07-2024,Hemat,Ngutang,**
+967,ID0003,33,Wanita,SPXID30000,Home,"Rp 408.000,-",03-01-2023,Next Day,Cash,***
+968,ID0428,37,Wanita,SPXID00683,Home,"Rp 829.000,-",10-11-2025,Express,Cash,*
+969,ID0879,27,Wanita,SPXID44938,Electronics,"Rp 688.000,-",26-01-2023,Reguler,Cash,*****
+970,ID0772,40,Wanita,SPXID37094,Food,"Rp 598.000,-",12-02-2024,Express,Ngutang,**
+971,ID0737,32,Wanita,SPXID27647,Home,"Rp 21.000,-",18-10-2024,Reguler,Cash,*****
+972,ID0141,45,Pria,SPXID36260,Electronics,"Rp 143.000,-",08-03-2024,Express,Cash,**
+973,ID0064,58,Pria,SPXID40876,Home,"Rp 886.000,-",26-06-2023,Express,Transfer,***
+974,ID0935,19,Pria,SPXID05993,Home,"Rp 427.000,-",25-09-2025,Reguler,COD,****
+975,ID0024,48,Wanita,SPXID05058,Fashion,"Rp 265.000,-",28-07-2023,Reguler,Cash,*
+976,ID0050,20,Pria,SPXID18009,Fashion,"Rp 264.000,-",01-07-2024,Reguler,Transfer,**
+977,ID0150,46,Pria,SPXID01336,Home,"Rp 784.000,-",28-05-2023,Hemat,COD,*
+978,ID0401,41,Pria,SPXID04707,Electronics,"Rp 639.000,-",25-08-2024,Express,COD,**
+979,ID0781,47,Wanita,SPXID12844,Food,"Rp 275.000,-",26-08-2025,Hemat,Ngutang,****
+980,ID0038,31,Pria,SPXID09402,Sport,"Rp 219.000,-",13-03-2023,Next Day,COD,***
+981,ID0752,51,Wanita,SPXID45704,Sport,"Rp 316.000,-",09-07-2024,Next Day,Ngutang,*****
+982,ID0547,53,Pria,SPXID35018,Sport,"Rp 230.000,-",16-07-2025,Hemat,COD,*
+983,ID0841,31,Wanita,SPXID28256,Home,"Rp 283.000,-",06-04-2024,Next Day,COD,****
+984,ID0082,40,Pria,SPXID32082,Fashion,"Rp 121.000,-",21-08-2024,Express,Transfer,**
+985,ID0572,43,Pria,SPXID35766,Food,"Rp 626.000,-",01-07-2024,Express,Cash,****
+986,ID0222,38,Pria,SPXID26829,Fashion,"Rp 903.000,-",09-06-2025,Next Day,Transfer,****
+987,ID0241,18,Pria,SPXID15628,Electronics,"Rp 24.000,-",06-11-2023,Express,Transfer,**
+988,ID0074,59,Pria,SPXID10732,Electronics,"Rp 225.000,-",19-06-2024,Express,Cash,*****
+989,ID0812,20,Pria,SPXID29398,Food,"Rp 859.000,-",27-11-2023,Next Day,Ngutang,****
+990,ID0109,30,Pria,SPXID09464,Sport,"Rp 919.000,-",13-08-2024,Express,Transfer,*
+991,ID0064,18,Pria,SPXID15163,Sport,"Rp 145.000,-",19-06-2024,Express,Ngutang,*
+992,ID0720,59,Pria,SPXID45686,Home,"Rp 937.000,-",30-07-2024,Reguler,Transfer,*
+993,ID0879,39,Pria,SPXID08927,Home,"Rp 899.000,-",15-05-2023,Next Day,COD,**
+994,ID0714,25,Pria,SPXID38826,Food,"Rp 767.000,-",03-10-2023,Express,Ngutang,**
+995,ID0930,43,Wanita,SPXID17636,Electronics,"Rp 236.000,-",02-02-2023,Hemat,Ngutang,*****
+996,ID0089,45,Pria,SPXID28358,Sport,"Rp 907.000,-",18-10-2024,Next Day,Cash,***
+997,ID0863,20,Wanita,SPXID21359,Sport,"Rp 661.000,-",29-04-2024,Reguler,Ngutang,**
+998,ID0430,20,Wanita,SPXID34977,Home,"Rp 451.000,-",13-01-2025,Express,Cash,**
+999,ID0112,39,Wanita,SPXID24027,Electronics,"Rp 786.000,-",12-03-2025,Reguler,COD,*****
