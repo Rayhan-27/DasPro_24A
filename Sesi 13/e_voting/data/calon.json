@@ -1,0 +1,14 @@
+[
+    {
+        "id": "CL001",
+        "nama": "Ardi",
+        "visi": "Foyafoya",
+        "jumlah_suara": 1
+    },
+    {
+        "id": "CL003",
+        "nama": "Reza",
+        "visi": "Melakukan aksi",
+        "jumlah_suara": 0
+    }
+]
