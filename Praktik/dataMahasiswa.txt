@@ -1,0 +1,10 @@
+
+NIM = 20240506
+Nama = rayhan
+Alamat = lkmwlkmwlkwm
+Kelas = TI24
+
+NIM = 2020405168
+Nama = abdullah
+Alamat = lkmwklwmlkwmwkm
+Kelas = TI23
