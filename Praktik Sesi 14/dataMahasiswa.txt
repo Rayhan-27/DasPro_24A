@@ -1,0 +1,10 @@
+
+NIM = 20240040187
+Nama = Rayhan
+Alamat = Jl.Laksamana kencana
+Kelas = TI24
+
+NIM = 20240040188
+Nama = Abdullah
+Alamat = Jl.kmklmlkmkm
+Kelas = TI24
