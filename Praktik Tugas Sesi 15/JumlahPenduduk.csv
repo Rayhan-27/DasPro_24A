@@ -1,0 +1,6 @@
+id,kode_provinsi,nama_provinsi,bps_kode_kabupaten_kota,bps_nama_kabupaten_kota,penduduk_di_kawasan_rawan_bencana_yang_memperoleh_informasi_raw,satuan,tahun
+1,32,JAWA BARAT,3272,KOTA SUKABUMI,351459,ORANG,2020
+2,32,JAWA BARAT,3272,KOTA SUKABUMI,3139,ORANG,2021
+3,32,JAWA BARAT,3272,KOTA SUKABUMI,5905,ORANG,2022
+4,32,JAWA BARAT,3272,KOTA SUKABUMI,4931,ORANG,2023
+5,32,JAWA BARAT,3272,KOTA SUKABUMI,5048,ORANG,2024
